@@ -1,0 +1,19 @@
+#lang: en
+title: BlueBotPC LLC
+theme: jekyll-theme-minimal
+tagline: Support Small Business
+email: matt@mattfaulkner.net
+description: PC Repair and IT Services
+#baseurl: "/bluebotpc.github.io"
+url: "https://www.bluebotpc.com"
+permalink: pretty
+favicon: /assets/favicon.ico
+logo: /assets/img/logo_color.png
+#google_analytics: UA-234694781-1
+
+plugins:
+  - jekyll-sitemap 
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
