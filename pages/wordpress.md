@@ -3,11 +3,11 @@ layout: default
 ---
 # Managed WordPress Hosting
 
-We take great pride in delivering superior uptime, customer service, and safeguarding our clients infrastructure. We strive to go above and beyond to exceed our customers’ expectations because we know you could switch and spend money with a much larger business.
+We take great pride in delivering superior uptime, customer service, and safeguarding our clients infrastructure. We strive to go above and beyond to exceed our customers’ expectations because we know you could switch and spend money with a much larger business. We appreciate you chosing to do business with us.
 
-Read below to pick your plan then [Contact Us](https://bluebotpc.github.io/pages/contact/) to get started! Have questions? We can help every single step of the way.
+Read below to pick your plan then [Contact Us](https://bluebotpc.com/pages/contact/) to get started! Have questions? We can help every single step of the way.
 
-[Learn more about our Managed WordPress Features Here!](https://bluebotpc.github.io/pages/features)
+[Learn more about our Managed WordPress Features Here!](https://bluebotpc.com/pages/features)
 
 ## Shared Hosting Plans
 

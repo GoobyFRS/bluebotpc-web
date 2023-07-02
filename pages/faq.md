@@ -7,7 +7,7 @@ layout: default
 
 ### Do I need an appointment?
 
-No appointment required. However calling ahead can reduce your wait times in the event we are tied up/busy.
+No appointment required. However calling ahead can reduce your wait times in the event we are tied up or busy.
 
 ### How long will it take to repair my computer?
 
@@ -15,16 +15,22 @@ Most Software/OS related issues are resolved on the same day. Most hardware repl
 
 ### Do you back your work?
 
-We have Industry experience, certifications, and education. We will make the best judgement call on a case by case basis. All work is backed by a 30 day guarantee.
+We have Industry experience, certifications, and education. We will make the best judgement call on a case by case basis. All repairs are backed by a 30 day guarantee. All BlueBotPC built Desktops come with a 1-Year warranty.
 
 ### What if I decide not to fix my computer?
 
-If you opt not to repair your device, we will return it to you at no extra cost. You will still be required to pay the non-refundable up-front diagnostics fee.
+If you opt not to repair your device, we will return it to you at no extra cost. You will still be required to pay the non-refundable $40 diagnostics fee.
 
 ### Will you perform repairs without my authorization?
 
-No, we will never charge you for a service outside our initial quote.
+No - We will never charge you for a service outside our initial quote without first getting your approval.
 
 ## Managed WordPress FAQ
 
 ### Can I move my website to a different Data Center?
+
+Yes - We can move your web server a different data center. This will result in a service outage while your data is in-transit.
+
+### Does my web server have a control panel?
+
+Deluxe, Professional, and Ultimate plans include [CyberPanel](https://cyberpanel.net/) by default. **Optional on Stater and Standard plans**

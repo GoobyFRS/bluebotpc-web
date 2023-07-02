@@ -3,7 +3,7 @@ layout: default
 ---
 # Signature Features for All
 
-[Pricing for our Managed WordPress Plans Here!](https://bluebotpc.github.io/pages/wordpress)
+[Pricing for our Managed WordPress Plans Here!](https://bluebotpc.com/pages/wordpress)
 
 Customer Satisfaction is at the core of everything we do. That is why we provide every customer with hassle-free...
 

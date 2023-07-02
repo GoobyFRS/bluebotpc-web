@@ -7,7 +7,7 @@ If you are interested in learning more about what BlueBotPC LLC can do for you; 
 
 **Phone:** ```720-831-2030```
 
-**Email:** ```matt@mattfaulkner.net```
+**Email:** ```matt@bluebotpc.com```
 
 **Snail Mail:** ```301 Birch Ave New Salem, ND 58563```
 
@@ -17,12 +17,10 @@ Originally founded in Lone Tree, Colorado on July 7th 2022!
 
 ### Our Limitations
 
-Below you will find an incomprensive list of services we do not offer or officially support...
+Below you will find a list of services we do not offer or officially support...
 
 1. No Email server hosting. Please checkout [ProtonMail](https://account.proton.me/refer-a-friend?referrer=9E1AC5Q1T3Z0) instead.
 2. No Professional Web Designer on staff.
-3. No certified Data Recovery
-4. No current HIPPA Compliance
 
 ### Company 2023 Road Map
 
@@ -37,4 +35,4 @@ Below you will find an incomprensive list of services we do not offer or officia
 9. Expand Domain Registration offerings
 10. Expand CDN offerings
 
-[Link to FAQ](https://bluebotpc.github.io/pages/faq)
+[Link to FAQ](https://bluebotpc.com/pages/faq)
