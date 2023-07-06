@@ -3,15 +3,15 @@ layout: default
 ---
 # Managed WordPress Hosting
 
-We take great pride in delivering superior uptime, customer service, and safeguarding our clients infrastructure. We strive to go above and beyond to exceed our customers’ expectations because we know you could switch and spend money with a much larger business. We appreciate you chosing to do business with us.
+I take great pride in delivering superior uptime, customer service, and safeguarding my clients infrastructure. I strive to go above and beyond to exceed my customers’ expectations as a provider because I know you could switch and spend money with a much larger business. I appreciate you chosing to do business with us.
 
 Read below to pick your plan then [Contact Us](https://bluebotpc.com/pages/contact/) to get started! Have questions? We can help every single step of the way.
 
-[Learn more about our Managed WordPress Features Here!](https://bluebotpc.com/pages/features)
+[Managed WordPress Features Here](https://bluebotpc.com/pages/features)
 
 ## Shared Hosting Plans
 
-Our **Shared** plans offer industry-leading price to performance and fit the bill for most customers. Whether you are a Freelancer, Tradesman, or really anyone who wants a website, we can help you get online!
+Our **Shared** plans offer industry-leading price to performance and fit the bill for most customers. Whether you are a Freelancer, Tradesman, or really anyone who wants a website, we can help you get online at an affordable monthly price!
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Starter       | $20 | 20GB | 1TB | 60,000  |

@@ -2,30 +2,15 @@
 
 BlueBotPC LLC is a family-owned IT Services Provider based in New Salem, North Dakota serving the local community.
 
-[Matt](https://www.mattfaulkner.net) has 10 years experience in IT Support. Active Senior Infrastructure Technician for a Fortune 200.
+[Matt](https://www.mattfaulkner.net) has 10 years experience in IT Support and is an very avid 'Techy'.
 
 [Ruby](https://www.mattfaulkner.net/about/ruby/) is a CompTIA certified IT Technician with over 50 desktops built!
 
-## Managed WordPress
-
-Your website must be fast, secure, and available. Our custom [OLS WordPress](https://openlitespeed.org/) deployments not only result in 30% faster load times than many of our competitors; but also reduce server-side load as much as 25%!
-
-- Managed SSL Certificates secure your site security and boost your Search Engine credibility.
-- Daily and Weekly Backups to ensure business continuity and easy rollbacks.
-- Automated OS Patches and Plugin Updates.
-- Cloud Firewalls reduce the attack vectors for bad actors.
-- 11 Core Data Centers worldwide!
-- Current Generation Datacenter-Grade AMD EYPC Processors!
-
-[Why host your website with BlueBotPC?](https://bluebotpc.com/pages/features)
-
-[Pricing for our Managed WordPress Plans Here!](https://bluebotpc.com/pages/wordpress)
-
 ## Personal PC Repair
 
-Do you need IT Support as a Home-User? Give us a ring for a _FREE_ consultation! Your place, our place, or remote we can support your IT needs on your schedule. All work is backed by a 30 day guarantee. Even if you do not see what you need listed below, give us a shout. Most pricing is based on the job. **$40 Diagnostics + $50/hour**
+Do you need IT Support as a Home-User? Give me a ring for a _FREE_ consultation! Your place, my place, or remote I can support your IT needs on your schedule. Even if you do not see what you need listed below, give me a shout. Most pricing is based on the work provided. **All work is backed by a 30 day guarantee. $50/hour**
 
-[Home Technology Support here](https://bluebotpc.com/pages/pc)
+[Learn More About Home Technology Support](https://bluebotpc.com/pages/pc)
 
 - Desktop and Laptop Hardware Repairs
 - Malware/Virus Removal
@@ -37,13 +22,27 @@ Do you need IT Support as a Home-User? Give us a ring for a _FREE_ consultation!
 - Educational Services
 - Much More!!!
 
+## Managed WordPress
+
+By deploying [OpenLiteSpeed WordPress](https://openlitespeed.org/) for my customers, I can decrease website load times by as much as 30%. This can also reduce the server-side load as much as 25%! This allows you to serve more customers with fewer resources. This means you spend less!
+
+- Managed SSL Certificates increase your site security and boost your Search Engine credibility.
+- Daily and Weekly Backups to ensure business continuity and easy rollbacks!
+- Automatic Server Security Patches and Plugin Updates.
+- Cloud Firewalls to reduce possible attack vectors.
+- 4 Data Centers in the United States!
+
+[Why Host With BlueBotPC?](https://bluebotpc.com/pages/features)
+
+[Pricing for Managed WordPress Plans Here!](https://bluebotpc.com/pages/wordpress)
+
 ## Business Services
 
-We have the knowledge, resources, and network of partners to guide your business through growing IT needs. Leverage our knowledge of Networking, the Cloud, and Incident Management to guide your business into 2023 and the future. **$100/hour**
+I have the knowledge, resources, and network of partners to guide your business through growing IT needs. Leverage our knowledge of Networking, the Cloud, and Incident Management to guide your business into 2023 and the future. **$100/hour**
 
 - General IT Consulting
 - Network and Security Engineering
 - Managed Solutions & Web Hosting
 - Project Management
 
-[Learn More about out Business Services here!](https://bluebotpc.com/pages/biz-services)
+[Business Services Here!](https://bluebotpc.com/pages/biz-services)

@@ -24,11 +24,11 @@ The following definitions shall apply to the BlueBotPC LLC Service Level Agreeme
 **Customer Credit:** Includes a 30:1 service credit added to your account credit balance, if your Monthly Uptime Percentage for any given calendar month is below 99.98%.
 This implies that for every 1-minute of downtime, we credit 30 minutes to your account.
 
-Customer Must Request Credit. In order to receive any Customer Service Credits described above, you must notify BlueBotPC LLC by email or otherwise in writing within twenty-eight (28) days from the time you become eligible to receive a Customer Service Credit. We will in-best-effort credit your account without your input.
+Customer Must Request Credit. In order to receive any Customer Service Credits described above, you must notify BlueBotPC LLC by email or otherwise in writing within twenty-eight (28) days from the time you become eligible to receive a Customer Service Credit. _I will in-best-effort credit your account without your input._
 
 **Maximum Customer Service Credit:** The aggregated maximum number of Client Service Credits you can claim for any Downtime periods that occur in a single calendar month shall not exceed 1 month of service credit added to your credit balance.
 
 **Uptime SLA Exclusions:** This Uptime SLA does not apply to any performance issues caused by:
 
 - Factors outside of BlueBotPC LLC’s reasonable control.
-- Factors that result from actions or inactions of you and any third parties.
+- Factors that result from actions or inactions of you and/or any third parties.

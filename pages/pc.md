@@ -3,7 +3,7 @@ layout: default
 ---
 # Home Technology Services
 
-We know that homes often have the same IT needs as a small business. It's not just the increase in work-from-home but also the Smart TVs, the security systems, and the gaming consoles. Whether you need to drop off a device with us or we need to make a house-call, we are here to help! **All work is backed by a 30 day guarantee.**
+I know that homes often have the same IT needs as a small business. Between the increase in work-from-home, the Smart TVs, the security systems, and the gaming consoles. Whether you need to drop off a device with us or we need to make a house-call, we are here to help! **All work is backed by a 30 day guarantee. We ask $50/hour.**
 
 - Desktop and Laptop Hardware Repairs
 - Malware/Virus Removal
@@ -14,6 +14,8 @@ We know that homes often have the same IT needs as a small business. It's not ju
 - Nikon Camera Services
 - Educational Services
 
+## Desktop and Laptop Repair
+
 1. **Free Consultation:** We visually inspect your computer for damage, talk to you about your experience, and perform basic troubleshooting. We will make at least two recommendations for how to proceed.
 2. **Intake:** Device is added to our inventory tracking system.
 3. **Troubleshooting Desk:** Device undergoes a full software/hardware diagnostics workflow to ensure we identify and resolve the root-cause. This cost $40 up-front. These tests commonly take over 2 hours to complete.
@@ -21,11 +23,7 @@ We know that homes often have the same IT needs as a small business. It's not ju
 5. **Repair:** The identified root-cause is resolved and cleanup work will be performed.
 6. **Return to Customer:** Device is removed from inventory, payment is processed, and receipt is given.
 
-## Desktop and Laptop Repair
-
-All Personal Computer repairs include dust removal and a virus scan.
-
-| **Service** | **Fixed Cost** |
+| **Service** | **Flat Rate** |
 | Diagnostics Fee | $40 |
 | Custom Length Cat6a cable | $2/foot |
 | Power Suppy Test | $25 |
@@ -36,11 +34,14 @@ All Personal Computer repairs include dust removal and a virus scan.
 | OS Re-Install | $50 |
 | BIOS Update | $50 |
 | New PC Setup | $75 |
-| Virus Removal | $80 |
+| Virus Removal | $100 |
+| Screen Replacement* | $165 |
+
+All Personal Computer repairs include complementary dust removal and a OS Updates! The services listed above are exempt from our hourly rate.
 
 ### Home Network Support
 
-Is your wireless spotty? Does the printer keep falling off the network? We are your local Network experts and can help you diagnose, resolve, or become educated on all things networking!
+Is your wireless spotty? Does the printer keep falling off the network? I am your local Network expert and I can help you diagnose, resolve, or become educated on all things networking! **$50/hour Flat Rate**
 
 ### Custom Built Desktops
 
@@ -50,7 +51,7 @@ It doesn't matter if you are a newbie looking to build a brand new PC or just ne
 | Air-Cooled Full-Build | $160 |
 | AIO Full-Build | $200 |
 
-**Warranty Disclaimer:** Full-Build computers are backed by a 1-Year warranty. Guaranteed to be free of hardware and assembly defects. Void if used for Crypto-mining or evidence of water/liquid damage.
+**Warranty Disclaimer:** Full-Build computers are backed by a 1-Year warranty. Guaranteed to be free of hardware and assembly defects. Void if used for Crypto-mining or if there is evidence of water/liquid damage.
 
 ### Nikon Camera Services
 
