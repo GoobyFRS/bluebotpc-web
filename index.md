@@ -2,9 +2,9 @@
 
 BlueBotPC LLC is a family-owned IT Services Provider based in New Salem, North Dakota serving the local community.
 
-[Matt](https://www.mattfaulkner.net) has 10 years experience in IT Support and is an very avid 'Techy'.
+[Matt](https://www.mattfaulkner.net) has 10 years experience in IT Support.
 
-[Ruby](https://www.mattfaulkner.net/about/ruby/) is a CompTIA certified IT Technician with over 50 desktops built!
+[Ruby](https://www.mattfaulkner.net/about/ruby/) is a CompTIA certified IT Technician.
 
 ## Personal PC Repair
 
