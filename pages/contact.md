@@ -15,7 +15,7 @@ If you are interested in learning more about what BlueBotPC LLC can do for you; 
 
 Originally founded in Lone Tree, Colorado on July 7th 2022 as a Game Server Hosting company.
 
-### Our Limitations
+### Limitations
 
 Below you will find a list of services we do not offer or officially support...
 
@@ -32,4 +32,11 @@ Below you will find a list of services we do not offer or officially support...
 6. Expand storage offerings
 7. Expand Domain Registration offerings
 8. Expand CDN offerings
+
 [Link to FAQ](https://bluebotpc.com/pages/faq)
+
+[Link to Legal](https://bluebotpc.com/pages/legal/legal)
+
+[Link to Terms of Service](https://bluebotpc.com/pages/legal/tos)
+
+[Link to Service Level Agreement](https://bluebotpc.com/pages/legal/sla)

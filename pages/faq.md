@@ -3,8 +3,6 @@ layout: default
 ---
 # Frequently Asked Questions (FAQ)
 
-## Personal PC Repair FAQ
-
 ### Do I need an appointment?
 
 No appointment required. However calling ahead can reduce your wait times in the event we are tied up or busy.

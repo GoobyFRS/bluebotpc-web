@@ -26,7 +26,7 @@ I know that homes often have the same IT needs as a small business. Between the 
 | **Service** | **Flat Rate** |
 | Diagnostics Fee | $40 |
 | Custom Length Cat6a cable | $2/foot |
-| Power Suppy Test | $25 |
+| Power Supply Test | $25 |
 | Motherboard POST Test | $25 |
 | Memory/RAM Burn-In Test | $25 |
 | New Storage Installation | $40 |

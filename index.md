@@ -24,7 +24,7 @@ Do you need IT Support as a Home-User? Give me a ring for a _FREE_ consultation!
 
 ## Managed WordPress
 
-By deploying [OpenLiteSpeed WordPress](https://openlitespeed.org/) for my customers, I can decrease website load times by as much as 30%. This can also reduce the server-side load as much as 25%! This allows you to serve more customers with fewer resources. This means you spend less!
+By deploying [OpenLiteSpeed WordPress](https://openlitespeed.org/) for my customers, I can decrease website load times by as much as 30%. This can also reduce the server-side load as much as 25%! This allows you to serve more customers with fewer resources. This means you can spend less!
 
 - Managed SSL Certificates increase your site security and boost your Search Engine credibility.
 - Daily and Weekly Backups to ensure business continuity and easy rollbacks!

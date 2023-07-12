@@ -15,7 +15,7 @@ Customer satisfaction is at the core of everything I do. That is why I provide e
 - [Dedicated Cloud Firewall](https://www.linode.com/products/cloud-firewall/)
 - Dual Out-of-Band Management options
 - [AMD EYPC processors](https://www.amd.com/en/processors/epyc-7003-series)
-- Full SSD Storage
+- [Full SSD Storage](https://www.linode.com/blog/linode/linode-cloud-ssds-double-ram-much-more/)
 - [Basic QUIC.cloud CDN Integration](https://www.quic.cloud/quic-cloud-services-and-features/quic-cloud-cdn-service/)
 
 All of this is to ensure your business' web servers remain available, secure, and operating at peak performance.
@@ -43,5 +43,7 @@ All BlueBotPC web servers are strictly locked down upon deployment to protect ou
 9. Mumbai, India (ap-west)
 10. Tokyo, Japan (ap-northeast)
 11. Sydney, Austrllia (ap-southeast)
+
+## Content Delivery Loca
 
 Click to learn more about the [Akamai Global Infrastructure](https://www.linode.com/global-infrastructure/)
