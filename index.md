@@ -30,7 +30,8 @@ By deploying [OpenLiteSpeed WordPress](https://openlitespeed.org/) for my custom
 - Daily and Weekly Backups to ensure business continuity and easy rollbacks!
 - Automatic Server Security Patches and Plugin Updates.
 - Cloud Firewalls to reduce possible attack vectors.
-- 4 Data Centers in the United States!
+- 7 Data Centers in the United States and Canada!
+- 17 Content Delivery PoPs!
 
 [Why Host With BlueBotPC?](https://bluebotpc.com/pages/features)
 

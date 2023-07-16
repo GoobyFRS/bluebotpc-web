@@ -3,24 +3,24 @@ layout: default
 ---
 # Managed WordPress Hosting
 
-I take great pride in delivering superior uptime, customer service, and safeguarding my clients infrastructure. I strive to go above and beyond to exceed my customers’ expectations as a provider because I know you could switch and spend money with a much larger business. I appreciate you chosing to do business with us.
+I take great pride in delivering superior uptime, customer service, and safeguarding my clients infrastructure. I strive to go above and beyond to exceed my customers’ expectations as a provider because I know you could switch and spend money with a much larger business. I appreciate you choosing to do business with us.
 
 Read below to pick your plan then [Contact Us](https://bluebotpc.com/pages/contact/) to get started! Have questions? We can help every single step of the way.
 
 [Managed WordPress Features Here](https://bluebotpc.com/pages/features)
 
-## Shared Hosting Plans
+## Standard Hosting
 
-Our **Shared** plans offer industry-leading price to performance and fit the bill for most customers. Whether you are a Freelancer, Tradesman, or really anyone who wants a website, we can help you get online at an affordable monthly price!
+Our **Standard** plans offer industry-leading price to performance and fit the bill for most our customers. Whether you are a Freelancer, Tradesman, or really anyone who wants a website, we can help you get online at an affordable monthly price!
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Starter       | $20 | 20GB | 1TB | 60,000  |
 | Standard      | $40 | 75GB | 4TB | 100,000 |
 | Deluxe        | $85 | 75GB | 4TB | 160,000 |
 
-## Dedicated Hosting Plans
+## Premium Hosting
 
-**Dedicated** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops that operate as Full-Time income. These custom deployments operate with statically allocated resources. You will never encounter resource contention and are allowed 100% resource utilization 24/7.
+**Premium** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops that operate as Full-Time income. These custom deployments operate with dedicated resources. You will never encounter resource contention and are allowed 100% resource utilization 24/7.
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Professional | $100 | 75GB  | 4TB | 200,000  |

@@ -26,24 +26,19 @@ All BlueBotPC web servers are strictly locked down upon deployment to protect ou
 
 - Strong password enforcement policy.
 - Enforced SSH key only for root access.
+- Disabled root access over SSH.
 - Hardware-back MFA tokens.
 - Automatic security patching.
 - Role-based Access Controls
 
-## Data Center Locations
+## Our Data Centers
 
-1. Fremont, California (us-west)
-2. Dallas, Texas (us-central)
-3. Atlanta, Georgia (us-southeast)
-4. Newark, New Jersey (us-northeast)
-5. Toronto, Canada (can-central)
-6. London, England (eu-west)
-7. Frankfurt, Germany (eu-central)
-8. Singapore (ap-south)
-9. Mumbai, India (ap-west)
-10. Tokyo, Japan (ap-northeast)
-11. Sydney, Austrllia (ap-southeast)
-
-## Content Delivery Loca
+- Fremont, CA (us-west)
+- Dallas, TX (us-central)
+- Chicago, IL (us-central-2)
+- Atlanta, GA (us-southeast)
+- Newark, NJ (us-northeast)
+- Washington, DC (us-dc)
+- Toronto, Canada (can-central)
 
 Click to learn more about the [Akamai Global Infrastructure](https://www.linode.com/global-infrastructure/)
