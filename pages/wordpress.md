@@ -11,7 +11,7 @@ Read below to pick your plan then [Contact Us](https://bluebotpc.com/pages/conta
 
 ## Standard Hosting
 
-Our **Standard** plans offer industry-leading price to performance that fits the bill for most our customers. Designed for anyone who wants a website. We can help you get online at an affordable monthly price! Includes 5GB of BlueBotEdge bandwidth. **Trial my Stater Plan for 7-days Free** Just contact me to gain access.
+Our **Standard** plans offer industry-leading price to performance that fits the bill for most our customers. Designed for anyone who wants a website. We can help you get online at an affordable monthly price! Includes 5GB of BlueBotEdge bandwidth. **Trial a Standard Plan for 7-days Free** Just contact me to gain access.
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Starter       | $20 | 20GB | 1TB | 60,000  |

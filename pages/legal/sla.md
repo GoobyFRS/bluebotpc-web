@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Service Level Agreements
+# Service Level Agreement
 
 BlueBotPC LLC shall use all reasonable commercial efforts, being no less than accepted industry standards to ensure that your BlueBotPC LLC service is available to you (the Customer) 99.98% of the time in any given calendar month. If not, you may be eligible for Customer Service Credits described below.
 

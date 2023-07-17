@@ -3,7 +3,7 @@ layout: default
 ---
 # Home Technology Services
 
-I know that homes often have the same IT needs as a small business. Between the increase in work-from-home, the Smart TVs, the security systems, and the gaming consoles. Whether you need to drop off a device with us or we need to make a house-call, we are here to help! **All work is backed by a 30 day guarantee. We ask $50/hour.**
+I know that homes often have the same IT needs as a small business. Between the increase in work-from-home, the Smart TVs, the security systems, and the gaming consoles. Whether you need to drop off a device with us or we need to make a house-call, we are here to help! **All work is backed by a 30 day guarantee. $40 Diagnostics then $50/hour.**
 
 - Desktop and Laptop Hardware Repairs
 - Malware/Virus Removal
@@ -30,10 +30,10 @@ I know that homes often have the same IT needs as a small business. Between the 
 | Motherboard POST Test | $25 |
 | Memory/RAM Burn-In Test | $25 |
 | New Storage Installation | $40 |
-| New Thermal Compound | $50 |
 | OS Re-Install | $50 |
-| BIOS Update | $50 |
-| New PC Setup | $75 |
+| BIOS Update | $60 |
+| New PC Setup | $60 |
+| New Thermal Compound | $60 |
 | Virus Removal | $100 |
 | Screen Replacement* | $165 |
 
@@ -49,7 +49,7 @@ It doesn't matter if you are a newbie looking to build a brand new PC or just ne
 
 | **Service** | **Fixed Cost** |
 | Air-Cooled Full-Build | $160 |
-| AIO Full-Build | $200 |
+| Water AIO Full-Build  | $200 |
 
 **Warranty Disclaimer:** Full-Build computers are backed by a 1-Year warranty. Guaranteed to be free of hardware and assembly defects. Void if used for Crypto-mining or if there is evidence of water/liquid damage.
 
