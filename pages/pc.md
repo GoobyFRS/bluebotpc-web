@@ -17,15 +17,15 @@ I know that homes often have the same IT needs as a small business. Between the 
 ## Desktop and Laptop Repair
 
 1. **Free Consultation:** We visually inspect your computer for damage, talk to you about your experience, and perform basic troubleshooting. We will make at least two recommendations for how to proceed.
-2. **Intake:** Device is added to our inventory tracking system.
+2. **Intake:** Device is added to our inventory tracking system. You are provided a Ticket Number.
 3. **Troubleshooting Desk:** Device undergoes a full software/hardware diagnostics workflow to ensure we identify and resolve the root-cause. This cost $40 up-front. These tests commonly take over 2 hours to complete.
 4. **Cost Approval:** If we determine you will be charged more than the original quote, we stop here for your cost increase approval.
 5. **Repair:** The identified root-cause is resolved and cleanup work will be performed.
 6. **Return to Customer:** Device is removed from inventory, payment is processed, and receipt is given.
 
 | **Service** | **Flat Rate** |
-| Diagnostics Fee | $40 |
 | Custom Length Cat6a cable | $2/foot |
+| Diagnostics Fee | $40 |
 | Power Supply Test | $25 |
 | Motherboard POST Test | $25 |
 | Memory/RAM Burn-In Test | $25 |
@@ -41,7 +41,7 @@ All Personal Computer repairs include complementary dust removal and a OS Update
 
 ### Home Network Support
 
-Is your wireless spotty? Does the printer keep falling off the network? I am your local Network expert and I can help you diagnose, resolve, or become educated on all things networking! **$50/hour Flat Rate**
+Is your wireless spotty?local  Does the printer keep falling off the network? I am your Network expert and I can help you diagnose, resolve, or become educated on all things networking! **$50/hour Flat Rate**
 
 ### Custom Built Desktops
 

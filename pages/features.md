@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Signature Features for All
+# Features for Everyone
 
 [Managed WordPress Pricing Here!](https://bluebotpc.com/pages/wordpress)
 
@@ -9,16 +9,15 @@ Customer satisfaction is at the core of everything I do. That is why I provide e
 
 - [Managed SSL Certificates](https://letsencrypt.org/)
 - Daily and Weekly Backups
-- [Free Monitoring, Alerting, and Incident Response](https://newrelic.com/welcome-back)
+- Free Monitoring, Alerting, and Incident Response
 - [Global DDoS Mitigation](https://www.linode.com/products/ddos/)
 - IPv4 and IPv6 Support
 - [Dedicated Cloud Firewall](https://www.linode.com/products/cloud-firewall/)
-- Dual Out-of-Band Management options
 - [AMD EYPC processors](https://www.amd.com/en/processors/epyc-7003-series)
 - [Full SSD Storage](https://www.linode.com/blog/linode/linode-cloud-ssds-double-ram-much-more/)
-- [Basic QUIC.cloud CDN Integration](https://www.quic.cloud/quic-cloud-services-and-features/quic-cloud-cdn-service/)
+- [QUIC.cloud CDN](https://www.quic.cloud/quic-cloud-services-and-features/quic-cloud-cdn-service/)
 
-All of this is to ensure your business' web servers remain available, secure, and operating at peak performance.
+All of this is included to ensure your business' web servers remain available, secure, and operating at peak performance.
 
 ## Security Taken Seriously
 

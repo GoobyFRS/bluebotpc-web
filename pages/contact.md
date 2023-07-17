@@ -13,7 +13,7 @@ If you are interested in learning more about what BlueBotPC LLC can do for you; 
 
 ## About Us
 
-Originally founded in Lone Tree, Colorado on July 7th 2022 as a Game Server Hosting company.
+Started in Aurora, Colorado in 2015 as a PC Repair shop. We moved to our Lone Tree, Colorado location and stood up our Game Server Hosting division on July 7th 2022. As of July 1st 2023 we have relocated to North Dakota and exploring our options for growth in this under-served space.
 
 ### Limitations
 
@@ -24,14 +24,20 @@ Below you will find a list of services we do not offer or officially support...
 
 ### Company 2023 Road Map
 
-1. Redevelop Business Model and Plan
-2. Contract a Web Designer
-3. Support for End-User(s) mutli-site management panel
-4. Apply for SOC II Complaiance certification
-5. Apply for PCI Compliance certification
-6. Expand storage offerings
-7. Expand Domain Registration offerings
-8. Expand CDN offerings
+- Redevelop Business Model and Plan
+- Contract a Web Designer
+- Expand storage offerings
+- Expand Domain Registration offerings
+- Expand CDN offerings
+
+#### Disclaimers
+
+**Monthly Visitors Disclaimer:** These numbers are approximates for our custom deployments.
+
+**Billing Disclaimer:** Cancellations are rounded to the day.
+
+- Quarterly subscriptions receive an automatic 5% discount.
+- Yearly subscriptions receive an automatic 10% discount.
 
 [Link to FAQ](https://bluebotpc.com/pages/faq)
 
