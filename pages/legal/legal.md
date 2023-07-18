@@ -5,17 +5,13 @@ layout: default
 
 Data on this page is subject to change without notification. **Last Updated:** July 18th 2023
 
-[Service Level Agreement](https://bluebotpc.com/pages/legal/sla) - Outlines our service 
+[Service Level Agreement](https://bluebotpc.com/pages/legal/sla) - Defines our level of services provided.
 
-[Terms of Service](https://bluebotpc.com/pages/legal/tos)
+[Terms of Service](https://bluebotpc.com/pages/legal/tos) - Outlines rules and regulations that apply to our Web-Based services.
 
-[Privacy Policy](https://bluebotpc.com/pages/legal/privacy-policy) - Outlines what data we collect and how it is processed.
+[Privacy Policy](https://bluebotpc.com/pages/legal/privacy-policy) - Defines what data we collect and how it is processed.
 
 **Communication Standards:** We prefers to communicate via Email. We can provide PGP keys for encrypted communications by request. This helps create a paper trail for us both!
-
-## Custom PC Build Warranty
-
-Full-Build computers are backed by a 1-Year warranty. Guaranteed to be free of hardware and assembly defects. We will replace failed components with equal/equally-priced components at no cost to you. This is void if the PC is used for Crypto-mining or if there is evidence of water/liquid damage. Leaks from a BlueBotPC installed Water AIO loop are covered under most circumstances. Contact Matt directly for warranty support.
 
 ## Managed WordPress Billing
 
@@ -33,3 +29,7 @@ All repairs that require in-depth troubleshooting are subject to an non-refundab
 **On-Site Support Statement:** Customers are responsible for maintaining a safe working environment for BBPC Technicians. Technicians may refuse service due to safety concerns. Our Technicians may wear a face-covering/mask upon request. Billable hours start once our Technician arrives at your address.
 
 **Final Amendment:** We have Industry experience, certifications, and education. We will make the best judgement call on a case by case basis. All problems and concerns can be resolved by communicating with Matt.
+
+## Custom PC Build Warranty
+
+Full-Build computers are backed by a 1-Year warranty. Guaranteed to be free of hardware and assembly defects. We will replace failed components with equal/equally-priced components at no cost to you. This is void if the PC is used for Crypto-mining or if there is evidence of water/liquid damage. Leaks from a BlueBotPC installed Water AIO loop are covered under most circumstances. Contact Matt directly for warranty support.

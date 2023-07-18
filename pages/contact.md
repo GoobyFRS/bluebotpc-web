@@ -17,8 +17,6 @@ Started in Aurora, Colorado in 2015 as a PC Repair shop. We moved to our Lone Tr
 
 [Link to FAQ](https://bluebotpc.com/pages/faq)
 
-[Link to Legal](https://bluebotpc.com/pages/legal/legal)
+[Link to Legal](https://bluebotpc.com/pages/legal/legal) - Follow this to read our Service Level Agreement, Privacy Policy, and Terms of Service.
 
-[Link to Terms of Service](https://bluebotpc.com/pages/legal/tos)
-
-[Link to Service Level Agreement](https://bluebotpc.com/pages/legal/sla)
+## [New Managed WordPress Request](https://docs.google.com/forms/d/1RizQtXfU2M2di57s5_XrnS654IPZdvIbp1t1CAPaLZw/prefill)
