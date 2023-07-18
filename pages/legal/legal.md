@@ -3,13 +3,15 @@ layout: default
 ---
 # Legal & Compliance Center
 
-**Last Updated:** July 18th 2023
+Data on this page is subject to change without notification. **Last Updated:** July 18th 2023
 
-[Service Level Agreement](https://bluebotpc.com/pages/legal/sla)
+[Service Level Agreement](https://bluebotpc.com/pages/legal/sla) - Outlines our service 
 
 [Terms of Service](https://bluebotpc.com/pages/legal/tos)
 
-[Privacy Policy](https://bluebotpc.com/pages/legal/privacy-policy)
+[Privacy Policy](https://bluebotpc.com/pages/legal/privacy-policy) - Outlines what data we collect and how it is processed.
+
+**Communication Standards:** We prefers to communicate via Email. We can provide PGP keys for encrypted communications by request. This helps create a paper trail for us both!
 
 ## Custom PC Build Warranty
 
@@ -22,6 +24,12 @@ Full-Build computers are backed by a 1-Year warranty. Guaranteed to be free of h
 - Quarterly subscriptions receive an automatic 5% discount.
 - Yearly subscriptions receive an automatic 10% discount.
 
-## Personal Support Billing
+## Support Billing
 
-All repairs that require in-depth troubleshooting are subject to an non-refundable **$40.00 Diagnostics Fee**. This covers 2 hours of troubleshooting time. Work requiring more than 2 hours is subject to a **$50.00 per hour flat rate** after the diagnostics time has ended.
+All repairs that require in-depth troubleshooting are subject to an non-refundable **$40.00 Diagnostics Fee**. This covers 2 hours of troubleshooting time. Work requiring more than 2 hours is subject to a **$50.00 per hour flat rate** after the diagnostics time has ended. Customer Orders over $1,000 will require a non-refundable 20% deposit. Disputes can be negotiated with Matt.
+
+**Dispatch Billing Transparency:** We do not bill for most Technician dispatch calls. Dispatch outside of our normal operating hours will result in a $125 Truck Roll fee. Customer Orders over $1,000 will require a non-refundable 20% deposit. Disputes can be negotiated with Matt.
+
+**On-Site Support Statement:** Customers are responsible for maintaining a safe working environment for BBPC Technicians. Technicians may refuse service due to safety concerns. Our Technicians may wear a face-covering/mask upon request. Billable hours start once our Technician arrives at your address.
+
+**Final Amendment:** We have Industry experience, certifications, and education. We will make the best judgement call on a case by case basis. All problems and concerns can be resolved by communicating with Matt.
