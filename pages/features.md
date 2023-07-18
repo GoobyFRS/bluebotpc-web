@@ -7,6 +7,7 @@ layout: default
 
 Customer satisfaction is at the core of everything I do. That is why I provide every customer with hassle-free...
 
+- Unlimited Bandwidth
 - [Managed SSL Certificates](https://letsencrypt.org/)
 - Daily and Weekly Backups
 - Free Monitoring, Alerting, and Incident Response

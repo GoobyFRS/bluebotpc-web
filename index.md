@@ -24,14 +24,16 @@ Do you need IT Support? Give me a ring for a _FREE_ consultation! Your place, my
 
 ## Managed WordPress Hosting
 
-By deploying [OpenLiteSpeed WordPress](https://openlitespeed.org/) for my customers, I can decrease website load times by as much as 45%. This can also reduce the server-side load as much as 25%! This allows you to serve more customers with fewer resources. This means you can spend less!
+BlueBotPCs proudly offers Managed [WordPress](https://wordpress.org/) web hosting. Our custom deployments can decrease website load times by as much as 45%. This can also reduce the server-side load as much as 25%! This allows you to serve more customers with fewer costly resources.
 
 - Managed SSL Certificates increase your site security and boost your Search Engine credibility.
 - Daily and Weekly Backups to ensure business continuity and easy rollbacks!
 - Automatic Server Security Patches and Plugin Updates.
 - Cloud Firewalls to reduce possible attack vectors.
+- Unlimited Bandwidth.
 - 7 Data Centers in the United States and Canada!
 - 17 Content Delivery PoPs!
+- S3 Object Storage.
 
 [Managed WordPress Plans!](https://bluebotpc.com/pages/wordpress) - [Why Host With BlueBotPC?](https://bluebotpc.com/pages/features)
 
