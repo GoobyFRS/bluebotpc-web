@@ -3,6 +3,8 @@ layout: default
 ---
 # Terms of Service
 
+**Last Updated:** July 18th 2023
+
 These Terms of Service ("ToS") govern the use of BlueBotPC's managed WordPress hosting services. By signing up for or using our services, you agree to comply with these terms. Please read them carefully.
 
 Service Agreement
@@ -59,4 +61,4 @@ Governing Law
 
 Contact Information
 
-9.1 For any inquiries or concerns regarding these Terms of Service or BlueBotPC's managed WordPress hosting, please contact our support team at [Contact Email/Phone].
+9.1 For any inquiries or concerns regarding these Terms of Service or BlueBotPC's managed WordPress hosting, please contact Matt.
