@@ -15,7 +15,7 @@ Our **Standard** plans offer industry-leading price to performance that fits the
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Starter       | $20 | 20GB | Unlimited | 60,000  |
-| Standard      | $40 | 75GB | Unlimited | 100,000 |
+| Standard      | $40 | 50GB | Unlimited | 100,000 |
 | Deluxe        | $85 | 75GB | Unlimited | 160,000 |
 
 ## Premium Hosting
