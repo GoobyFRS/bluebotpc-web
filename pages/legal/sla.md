@@ -13,7 +13,7 @@ The following definitions shall apply to the BlueBotPC LLC Service Level Agreeme
 
 **Monthly Uptime Percentage** means the total number of minutes in the calendar month (T) minus the number of minutes of Downtime suffered from all Downtime Periods in the calendar month (d), divided by the total number of minutes in the calendar month (T). Months are billed and calulated in 28 day periods (40,320 minutes). Formula: ```T-d/T=p```
 
-**Server Downtime** is that when a the machine is in a booted state but the attached Customer Service does not respond to HTTP(S) or TCP Port tests from other systems wwithin the BlueBotPC LLC network. This indicates the Customer Service is unreachable.
+**Server Downtime** is that when a the machine is in a booted state but the attached Customer Service does not respond to HTTP(S) or TCP Port tests from other systems within the BlueBotPC LLC network. This indicates the Customer Service is unreachable.
 
 **Emergency Downtime** means situations where BlueBotPC LLC must temporarily induce downtime on a Server for events such as hardware failure, vulnerability repairs, and other such situations requiring the immediate shutdown of the system. Emergency Downtime is not considered Downtime for the purposes of this agreement. You will be informed through the email address associated with your Customer Service Account immediately of any required Emergency Downtime.
 
@@ -35,9 +35,9 @@ This implies that for every 1-minute of downtime, we credit 30 minutes to your a
 
 ## Support Information
 
-- 4.1 BlueBotPC will make all reasonable efforts to respond to support requests. Support Requests should be submitted online Jira Service Management or via Email ```INSERT AUTOMATION HERE```.
+- 4.1 BlueBotPC will make all reasonable efforts to respond to support requests. Support Requests should be submitted via Email ```support@bluebotpc.com```.
 
-| **Support Window**| **CST Time**  | **First Repsonse** |
+| **Support Window**| **CST Time**  | **First Response** |
 | **Day-Support**   | 10:00 - 17:00 | 120 minutes        |
 | **Night-Support** | 17:00 - 10:00 | Not Applicable     |
 

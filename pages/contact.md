@@ -3,7 +3,7 @@ layout: default
 ---
 # Contact Us
 
-If you are interested in learning more about what BlueBotPC LLC can do for you; feel free to contact us below...
+If you are interested in learning more about what BlueBotPC LLC can do for you; feel free to contact me below...
 
 **Phone:** ```303-995-9792```
 
@@ -19,4 +19,6 @@ Started in Aurora, Colorado in 2015 as a PC Repair shop. We moved to our Lone Tr
 
 [Link to Legal](https://bluebotpc.com/pages/legal/legal) - Follow this to read our Service Level Agreement, Privacy Policy, and Terms of Service.
 
-## [New Managed WordPress Request](https://docs.google.com/forms/d/1RizQtXfU2M2di57s5_XrnS654IPZdvIbp1t1CAPaLZw/prefill)
+## [Request Managed WordPress On-Boarding](https://www.mattfaulkner.net/bluebotpc/)
+
+The link above will re-direct you to my personal website to collect order information.

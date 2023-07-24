@@ -30,16 +30,16 @@ BlueBotPCs proudly offers Managed [WordPress](https://wordpress.org/) web hostin
 - Daily and Weekly Backups to ensure business continuity and easy rollbacks!
 - Automatic Server Security Patches and Plugin Updates.
 - Cloud Firewalls to reduce possible attack vectors.
-- Unlimited Bandwidth.
 - 7 Data Centers in the United States and Canada!
 - 17 Content Delivery PoPs!
+- Unlimited Bandwidth.
 - S3 Object Storage.
 
 [Managed WordPress Plans!](https://bluebotpc.com/pages/wordpress) - [Why Host With BlueBotPC?](https://bluebotpc.com/pages/features)
 
 ## Business Services
 
-I have the knowledge, resources, and network of partners to guide your business through growing IT needs. Leverage our knowledge of Networking, the Cloud, and Incident Management to guide your business into 2023 and the future. **All work is backed by a 30 day guarantee. $100/hour**
+I have the knowledge, resources, and network of partners to guide your business through growing IT needs. Leverage our knowledge of Networking, the Cloud, and Incident Management to guide your business into the future. Let me help you capture growth with Technology. **All work is backed by a 30 day guarantee. $100/hour**
 
 - General IT Consulting
 - Network and Security Engineering

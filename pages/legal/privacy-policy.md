@@ -11,7 +11,7 @@ This website is ```www.bluebotpc.com```  owned by Matt Faulkner ```https://www.m
 
 ## Cookies
 
-This web page is hosted by Cloudflare Pages. Refer to their cookies policy.
+This web page is hosted by Cloudflare Pages. Refer to their cookies policy linked below. BlueBotPC does not leverage cookies ourselves.
 
 ### Who we share your data with?
 
@@ -27,4 +27,4 @@ You may request a copy of all data we have collected. You may also request its p
 
 ### Applicable Privacy Policies
 
-[Cloudflare](https://www.cloudflare.com/privacypolicy/) -- [Sqaure](https://squareup.com/us/en/legal/general/privacy-no-account) -- [QUIC.cloud](https://www.quic.cloud/privacy-policy/) -- [Linode](https://www.linode.com/legal-privacy/) --
+[Cloudflare](https://www.cloudflare.com/privacypolicy/) -- [Square](https://squareup.com/us/en/legal/general/privacy-no-account) -- [QUIC.cloud](https://www.quic.cloud/privacy-policy/) -- [Linode](https://www.linode.com/legal-privacy/) -- [MattFaulkner](https://www.mattfaulkner.net/legal/privacy-policy/) --

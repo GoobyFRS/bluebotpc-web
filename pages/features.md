@@ -10,7 +10,6 @@ Customer satisfaction is at the core of everything I do. That is why I provide e
 - Unlimited Bandwidth
 - [Managed SSL Certificates](https://letsencrypt.org/)
 - Daily and Weekly Backups
-- Free Monitoring, Alerting, and Incident Response
 - [Global DDoS Mitigation](https://www.linode.com/products/ddos/)
 - IPv4 and IPv6 Support
 - [Dedicated Cloud Firewall](https://www.linode.com/products/cloud-firewall/)
@@ -20,25 +19,25 @@ Customer satisfaction is at the core of everything I do. That is why I provide e
 
 All of this is included to ensure your business' web servers remain available, secure, and operating at peak performance.
 
-## Security Taken Seriously
+## BlueBotPC Data Centers
 
-All BlueBotPC web servers are strictly locked down upon deployment to protect our clients and their downstream customers. For general reference, we recommend all the actions listed here plus a few more; [Guides - Setting Up and Securing a Compute Instance](https://www.linode.com/docs/products/compute/compute-instances/guides/set-up-and-secure/)
-
-- Strong password enforcement policy.
-- Enforced SSH key only for root access.
-- Disabled root access over SSH.
-- Hardware-back MFA tokens.
-- Automatic security patching.
-- Role-based Access Controls
-
-## Our Data Centers
+We deploy your Website on the [Akamai Global Cloud Network](https://www.linode.com/global-infrastructure/) by Linode!
 
 - Fremont, CA (us-west)
 - Dallas, TX (us-central)
-- Chicago, IL (us-central-2)
+- **Chicago, IL** (us-north)
 - Atlanta, GA (us-southeast)
 - Newark, NJ (us-northeast)
 - Washington, DC (us-dc)
 - Toronto, Canada (can-central)
 
-Click to learn more about the [Akamai Global Infrastructure](https://www.linode.com/global-infrastructure/)
+## BlueBotCDN
+
+BlueBotCDN seemlessly integrates with [QUIC.cloud](https://www.quic.cloud/cdn-network/). Enable HTTP/3 from Server to Customer!
+
+| **CDN-West**    | **CDN-Central** | **CDN-East**  | **CDN-Canada** |
+| Seattle, WA     | Dallas, TX      | Newark, NJ    | Vancouver      |
+| Portland, OR    | Denver, CO      | Charlotte, NC | Montreal       |
+| Fremont, CA     | Chicago, IL     | Atlanta, GA   | Toronto        |
+| Los Angeles, CA | Kansas City, MO | Orlando, FL   |                |
+| San Diego, CA   |                 | Miami, FL     |                |

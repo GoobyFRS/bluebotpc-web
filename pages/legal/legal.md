@@ -3,7 +3,9 @@ layout: default
 ---
 # Legal & Compliance Center
 
-Data on this page is subject to change without notification. **Last Updated:** July 18th 2023
+Data on this page is subject to change without notification. **Last Updated:** July 24th 2023
+
+By utilizing any BlueBotPC services you agree to all agreements below which make-up our **Master Service Agreement**.
 
 [Service Level Agreement](https://bluebotpc.com/pages/legal/sla) - Defines our level of services provided.
 
@@ -11,24 +13,9 @@ Data on this page is subject to change without notification. **Last Updated:** J
 
 [Privacy Policy](https://bluebotpc.com/pages/legal/privacy-policy) - Defines what data we collect and how it is processed.
 
-**Communication Standards:** We prefers to communicate via Email. We can provide PGP keys for encrypted communications by request. This helps create a paper trail for us both!
+[Billing Standards](https://bluebotpc.com/pages/legal/billing) - Defines our Billing/Payment practices.
 
-## Managed WordPress Billing
-
-**All Plans** are pre-paid. Invoices are sent by email on the first business-day of every Month. Invoices may be delierved by mail with your written consent. All Invoices are NET14. Refunds & Cancellations are are processed daily at 5pm (1700) CST. Refund and Cancellations are rounded to the day of service shutdown.
-
-- Quarterly subscriptions receive an automatic 5% discount.
-- Yearly subscriptions receive an automatic 10% discount.
-
-## Support Billing
-
-All repairs that require in-depth troubleshooting are subject to an non-refundable **$40.00 Diagnostics Fee**. This covers 2 hours of troubleshooting time. Work requiring more than 2 hours is subject to a **$50.00 per hour flat rate** after the diagnostics time has ended. Customer Orders over $1,000 will require a non-refundable 20% deposit. Disputes can be negotiated with Matt.
-
-**Dispatch Billing Transparency:** We do not bill for most Technician dispatch calls. Dispatch outside of our normal operating hours will result in a $125 Truck Roll fee. Customer Orders over $1,000 will require a non-refundable 20% deposit. Disputes can be negotiated with Matt.
-
-**On-Site Support Statement:** Customers are responsible for maintaining a safe working environment for BBPC Technicians. Technicians may refuse service due to safety concerns. Our Technicians may wear a face-covering/mask upon request. Billable hours start once our Technician arrives at your address.
-
-**Final Amendment:** We have Industry experience, certifications, and education. We will make the best judgement call on a case by case basis. All problems and concerns can be resolved by communicating with Matt.
+**Communication Standards:** We prefers to communicate via Email. We can provide PGP keys for encrypted communications by request.
 
 ## Custom PC Build Warranty
 
