@@ -3,15 +3,11 @@ layout: default
 ---
 # Managed WordPress Hosting
 
-[Managed WordPress Features Here](https://bluebotpc.com/pages/features)
-
 I take great pride in delivering superior uptime, customer service, and safeguarding my clients infrastructure. I strive to go above and beyond to exceed my customers’ expectations as a provider because I know you could switch and spend money with a much larger business. I appreciate you choosing to do business with us.
-
-Read below to pick your plan then [Contact Us](https://bluebotpc.com/pages/contact/) to get started! Have questions? We can help every single step of the way.
 
 ## Standard Hosting
 
-Our **Standard** plans offer industry-leading price to performance that fits the bill for most our customers. Designed for anyone who wants a website. We can help you get online at an affordable monthly price! Includes 5GB of BlueBotCDN bandwidth. **Trial a Standard Plan for 7-days Free** Just contact me to gain access.
+Our **Standard** plans offer industry-leading price to performance that fits the bill for most our customers. Designed for anyone who wants a website. We can help you get online at an affordable monthly price! Includes 5GB of BlueBotCDN bandwidth. **Trial a Standard Plan for 7-days Free.** [Click Here to get started!](https://www.mattfaulkner.net/bluebotpc/)
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Starter       | $20 | 20GB | Unlimited | 60,000  |
@@ -20,7 +16,7 @@ Our **Standard** plans offer industry-leading price to performance that fits the
 
 ## Premium Hosting
 
-**Premium** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops that operate as Full-Time income. These deployments operate with the newest AMD EYPC processors to tackle even the most intense workloads! All **Premium** plans include 250GB of S3-compatible Cloud Storage plus 1TB of BlueBotCDN bandwidth!
+**Premium** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops that operate as Full-Time income. These deployments operate with the newest AMD EYPC processors to tackle even the most intense workloads! All **Premium** plans include 250GB of S3-compatible Cloud Storage plus 1TB of BlueBotCDN bandwidth! [Click Here to get started!](https://www.mattfaulkner.net/bluebotpc/)
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Professional | $100 | 75GB  | Unlimited | 200,000  |
@@ -33,3 +29,5 @@ Our **Standard** plans offer industry-leading price to performance that fits the
 | Managed Public DNS  | $10/Month | I will manage your DNS records. |
 | NOC Package         | $20/Month | Deeper Analytics, Faster Incident Response! |
 | BlueBotCDN          | $35/Month | Extended CDN Support for Business Critical Sites |
+
+[Managed WordPress Features Here](https://bluebotpc.com/pages/features) -- [Click Here to get started](https://www.mattfaulkner.net/bluebotpc/)

@@ -19,6 +19,6 @@ Started in Aurora, Colorado in 2015 as a PC Repair shop. We moved to our Lone Tr
 
 [Link to Legal](https://bluebotpc.com/pages/legal/legal) - Follow this to read our Service Level Agreement, Privacy Policy, and Terms of Service.
 
-## [Request Managed WordPress On-Boarding](https://www.mattfaulkner.net/bluebotpc/)
+### [Request Managed WordPress On-Boarding](https://www.mattfaulkner.net/bluebotpc/)
 
-The link above will re-direct you to my personal website to collect order information.
+The link above will re-direct you to my personal WordPress website to collect your order information.
