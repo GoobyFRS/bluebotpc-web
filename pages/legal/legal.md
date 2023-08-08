@@ -7,13 +7,13 @@ Data on this page is subject to change without notification. **Last Updated:** J
 
 By utilizing any BlueBotPC services you agree to all agreements below which make-up our **Master Service Agreement**.
 
-[Service Level Agreement](https://bluebotpc.com/pages/legal/sla) - Defines our level of services provided.
+[Service Level Agreement](https://www.bluebotpc.com/pages/legal/sla) - Defines our level of services provided.
 
-[Terms of Service](https://bluebotpc.com/pages/legal/tos) - Outlines rules and regulations that apply to our Web-Based services.
+[Terms of Service](https://www.bluebotpc.com/pages/legal/tos) - Outlines rules and regulations that apply to our Web-Based services.
 
-[Privacy Policy](https://bluebotpc.com/pages/legal/privacy-policy) - Defines what data we collect and how it is processed.
+[Privacy Policy](https://www.bluebotpc.com/pages/legal/privacy-policy) - Defines what data we collect and how it is processed.
 
-[Billing Standards](https://bluebotpc.com/pages/legal/billing) - Defines our Billing/Payment practices.
+[Billing Standards](https://www.bluebotpc.com/pages/legal/billing) - Defines our Billing/Payment practices.
 
 **Communication Standards:** We prefers to communicate via Email. We can provide PGP keys for encrypted communications by request.
 

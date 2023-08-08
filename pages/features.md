@@ -3,9 +3,9 @@ layout: default
 ---
 # Features
 
-[Managed WordPress Pricing Here!](https://bluebotpc.com/pages/wordpress)
+[Managed WordPress Pricing Here!](https://www.bluebotpc.com/pages/wordpress)
 
-Customer satisfaction is at the core of everything we do. That is why we provide every customer with...
+Customer satisfaction is at the core of everything we do. That is why we provide every customer with hassle-free...
 
 - Unlimited Bandwidth*
 - Automatic Rolling Backups
@@ -13,7 +13,7 @@ Customer satisfaction is at the core of everything we do. That is why we provide
 - Automatic Plugin Updates
 - Flexible PHP Workers
 - IPv4 and IPv6 Support
-- [Managed SSL Certificates](https://letsencrypt.org/)
+- [Managed SSL Certificates](https://www.letsencrypt.org/)
 - [Global DDoS Mitigation](https://www.linode.com/products/ddos/)
 - [Dedicated Cloud Firewall](https://www.linode.com/products/cloud-firewall/)
 - [AMD EYPC processors](https://www.amd.com/en/processors/epyc-7003-series)

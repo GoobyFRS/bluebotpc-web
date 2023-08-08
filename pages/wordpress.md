@@ -30,4 +30,4 @@ Our **Standard** plans offer industry-leading price to performance that fits the
 | NOC Package         | $20/Month | Deeper Analytics, Faster Incident Response! |
 | BlueBotCDN          | $35/Month | Extended CDN Support for Business Critical Sites |
 
-[Managed WordPress Features Here](https://bluebotpc.com/pages/features) -- [Click Here to get started](https://www.mattfaulkner.net/bluebotpc/)
+[Managed WordPress Features Here](https://www.bluebotpc.com/pages/features) -- [Click Here to get started](https://www.mattfaulkner.net/bluebotpc/)

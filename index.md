@@ -10,7 +10,7 @@ BlueBotPC LLC is a family-owned IT Services Provider based in New Salem, North D
 
 Do you need IT Support? Give me a ring for a _FREE_ consultation! Your place, my place, or remote, I can support your IT needs on your schedule. Even if you do not see what you need listed below, give me a shout. Most pricing is based on the work provided. **All work is backed by a 30 day guarantee.**
 
-[Learn More About Home Technology Support](https://bluebotpc.com/pages/pc)
+[Learn More About Home Technology Support](https://www.bluebotpc.com/pages/pc)
 
 - Desktop and Laptop Hardware Repairs
 - Malware/Virus Removal
@@ -35,7 +35,7 @@ BlueBotPCs proudly offers Managed [WordPress](https://wordpress.org/) web hostin
 - Unlimited Bandwidth.
 - S3 Object Storage.
 
-[Managed WordPress Plans!](https://bluebotpc.com/pages/wordpress) - [Why Host With BlueBotPC?](https://bluebotpc.com/pages/features)
+[Managed WordPress Plans!](https://www.bluebotpc.com/pages/wordpress) - [Why Host With BlueBotPC?](https://www.bluebotpc.com/pages/features)
 
 ## Business Services
 
@@ -46,4 +46,4 @@ I have the knowledge, resources, and network of partners to guide your business 
 - Managed Solutions & Web Hosting
 - Project Management
 
-[Business Services Here!](https://bluebotpc.com/pages/biz-services)
+[Business Services Here!](https://www.bluebotpc.com/pages/biz-services)

@@ -5,7 +5,7 @@ layout: default
 
 ## Do I need an appointment?
 
-Yes, Please [Contact Me](https://bluebotpc.com/pages/contact/) via Phone or Email to get started!
+Yes, Please [Contact Me](https://www.bluebotpc.com/pages/contact/) via Phone or Email to get started!
 
 ### How long will it take to repair my computer?
 

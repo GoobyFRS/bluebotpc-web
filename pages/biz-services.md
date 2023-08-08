@@ -3,7 +3,7 @@ layout: default
 ---
 # Business Services
 
-[Learn more about our Managed WordPress Plans Here!](https://bluebotpc.github.io/pages/wordpress)
+[Learn more about our Managed WordPress Plans Here!](https://www.bluebotpc.github.io/pages/wordpress)
 
 ## General IT Consulting
 
