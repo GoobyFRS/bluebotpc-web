@@ -11,9 +11,11 @@ If you are interested in learning more about what BlueBotPC LLC can do for you; 
 
 **Snail Mail:** ```301 Birch Ave New Salem, ND 58563```
 
+**Personal Website:** ```https://www.mattfaulkner.net/```
+
 ## About Us
 
-Started in Aurora, Colorado in 2015 as a PC Repair shop. We moved to our Lone Tree, Colorado location and stood up our Game Server Hosting division on July 7th 2022. As of July 1st 2023 we have relocated to North Dakota and exploring our options for growth in this under-served space.
+I started in Aurora, Colorado as a PC Repair shop in 2015 after Graduation. In 2022 we moved to Lone Tree, Colorado and built our first Point of Presents offering Game Server Hosting. As of July 1st 2023; we have relocated to North Dakota and are exploring our options for supporting this under-served community.
 
 [Link to FAQ](https://bluebotpc.com/pages/faq)
 
