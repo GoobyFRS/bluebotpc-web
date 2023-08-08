@@ -2,7 +2,7 @@
 
 We are a family-owned IT Services Provider based in New Salem, North Dakota serving the local community. We offer affordable PC Repair and Managed WordPress website hosting.
 
-[Matt](https://www.mattfaulkner.net)/ has 10 years experience in IT Support. Active in IT Infrastructure Operations.
+[Matt](https://www.mattfaulkner.net/) has 10 years experience in IT Support. Active in IT Infrastructure Operations.
 
 [Ruby](https://www.mattfaulkner.net/about/ruby/) is a CompTIA certified IT Technician.
 
