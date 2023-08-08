@@ -7,7 +7,9 @@ I take great pride in delivering superior uptime, customer service, and safeguar
 
 ## Standard Hosting
 
-Our **Standard** plans offer industry-leading price to performance that fits the bill for most our customers. Designed for anyone who wants a website. We can help you get online at an affordable monthly price! Includes 5GB of BlueBotCDN bandwidth. **Trial a Standard Plan for 7-days Free.** [Click Here to get started!](https://www.mattfaulkner.net/bluebotpc/)
+**Standard** plans offer industry-leading price to performance that fit the bill for most our customers. Designed for anyone who wants a website. We can help you get online at an affordable price!
+
+Includes 5GB of BlueBotCDN bandwidth. **Trial a Standard Plan for 7-days Free.** [Click Here to get started!](https://www.mattfaulkner.net/bluebotpc/)
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Starter       | $20 | 20GB | Unlimited | 60,000  |
@@ -16,7 +18,9 @@ Our **Standard** plans offer industry-leading price to performance that fits the
 
 ## Premium Hosting
 
-**Premium** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops that operate as Full-Time income. These deployments operate with the newest AMD EYPC processors to tackle even the most intense workloads! All **Premium** plans include 250GB of S3-compatible Cloud Storage plus 1TB of BlueBotCDN bandwidth! [Click Here to get started!](https://www.mattfaulkner.net/bluebotpc/)
+**Premium** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops that operate as Full-Time income. These deployments operate with the newest AMD EYPC processors to tackle even the most intense workloads!
+
+Include 250GB of S3-compatible Cloud Storage plus 1TB of BlueBotCDN bandwidth! [Click Here to get started!](https://www.mattfaulkner.net/bluebotpc/)
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Professional | $100 | 75GB  | Unlimited | 200,000  |

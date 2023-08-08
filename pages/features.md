@@ -26,7 +26,7 @@ All of this is included to ensure your business' web servers remain available, s
 
 ## BlueBotPC Data Centers
 
-We deploy your Website on the [Akamai Global Cloud Network](https://www.linode.com/global-infrastructure/) by Linode!
+Our Compute hardware is operated by the [Akamai Global Cloud Network](https://www.linode.com/global-infrastructure/). This provides frictionless PCI and SOC II complaince as well as world-class hardware and networking!
 
 - Fremont, CA (us-west)
 - **Dallas, TX** (us-central)
@@ -38,7 +38,7 @@ We deploy your Website on the [Akamai Global Cloud Network](https://www.linode.c
 
 ## BlueBotCDN
 
-BlueBotCDN seemlessly integrates with [QUIC.cloud](https://www.quic.cloud/cdn-network/). Enabling HTTP/3 from Server to CDN to Customer!
+BlueBotCDN is provided by [QUIC.cloud](https://www.quic.cloud/cdn-network/). Enabling HTTP/3 from Server to CDN to Customer!
 
 | **CDN-West**    | **CDN-Central** | **CDN-East**  | **CDN-Canada** |
 | Seattle, WA     | Dallas, TX      | Newark, NJ    | Vancouver      |
