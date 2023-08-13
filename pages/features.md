@@ -14,11 +14,10 @@ Customer satisfaction is at the core of everything we do. That is why we provide
 - IPv4 and IPv6 Support
 - [Managed SSL Certificates](https://www.letsencrypt.org/)
 - [Global DDoS Mitigation](https://www.linode.com/products/ddos/)
-- [Dedicated Cloud Firewall](https://www.linode.com/products/cloud-firewall/)
 - [AMD EYPC processors](https://www.amd.com/en/processors/epyc-7003-series)
 - [Full SSD Storage](https://www.linode.com/blog/linode/linode-cloud-ssds-double-ram-much-more/)
 - [QUIC.cloud CDN](https://www.quic.cloud/quic-cloud-services-and-features/quic-cloud-cdn-service/)
-- Performance & Uptime Monitoring
+- Active Performance & Uptime Monitoring
 - No Tier Support
 
 All of this is included to ensure your business critical web servers remain available, secure, and operating at peak performance!
@@ -37,7 +36,14 @@ Our Compute hardware is operated on the [Akamai Global Cloud Network](https://ww
 
 ## BlueBotCDN
 
-Content Delivery Networks BlueBotCDN is provided by [QUIC.cloud](https://www.quic.cloud/cdn-network/). Enabling HTTP/3 from Server to CDN to Customer!
+BlueBotCDN is provided by [QUIC.cloud](https://www.quic.cloud/cdn-network/). This allows us seemless integration of modern protocols such as HTTP/3. Our customized settings optimize cost and reduce origin server network utilization.
+
+- Full Page Cacheing
+- Image Optimization
+- Low-Qualty Placeholder Images
+- Global DDoS Mitigation
+- Page Optimization Services
+- Native HTTP/3
 
 | **CDN-West**    | **CDN-Central** | **CDN-East**  | **CDN-Canada** |
 | Seattle, WA     | Dallas, TX      | Newark, NJ    | Vancouver      |

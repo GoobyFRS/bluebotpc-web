@@ -33,11 +33,12 @@ We offer fully Managed WordPress website hosting. Pairing our optimized software
 - 17 Content Delivery PoPs
 - 7 Data Centers in the United States and Canads
 
-## [Business Services](https://www.bluebotpc.com/pages/biz-services)
+## Local Business Services
 
-I have the knowledge, resources, and network of partners to guide your business through growing IT needs. Leverage our knowledge of Networking, the Cloud, and Incident Management to guide your business into the future. Let me help you capture growth with Technology. **$100/hour**
+Small to Medium-sized businesses in rural areas have unique challenges. That is why we offer a wide-range of support for our local businesses to support their needs. Between us we have a decade of experience providing enterprise level Incident Management, Systems Analysis, Infrastructure Operations, and Systems Administration. **$80/Hour**
 
-- General IT Consulting
-- Network and Security Engineering
-- Managed Solutions & Web Hosting
-- Project Management
+- General IT Consulting & Support
+- Network & Security Solutions
+- Managed Cloud Solutions
+- Low-Voltage Services
+- Long-Term Project Management
