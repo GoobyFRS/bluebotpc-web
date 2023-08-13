@@ -6,11 +6,9 @@ We are a family-owned IT Services Provider based in New Salem, North Dakota serv
 
 [Ruby](https://www.mattfaulkner.net/about/ruby/) is a CompTIA certified IT Technician.
 
-## Personal PC Repair
+## [Personal PC Repair](https://www.bluebotpc.com/pages/pc)
 
-Do you need IT Support? Give me a ring for a _FREE_ consultation! I can support your IT needs on your schedule. Even if you do not see what you need listed below, give me a shout. Most pricing is based on the work provided. **All work is backed by a 30 day guarantee.**
-
-[Learn More About Home Technology Support](https://www.bluebotpc.com/pages/pc)
+Need IT Support? Give me a ring for a _FREE_ consultation! I can support your IT needs on your schedule. Even if you do not see what you need listed below, give me a shout. **$50/hour; 30 day guarantee.**
 
 - Desktop and Laptop Hardware Repairs
 - Malware/Virus Removal
@@ -20,30 +18,26 @@ Do you need IT Support? Give me a ring for a _FREE_ consultation! I can support 
 - Custom PC Builds and Upgrades
 - Nikon Camera Services
 - Educational Services
-- Much More!!!
+- Much More!
 
-## Managed WordPress Hosting
+## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
 
-We are proud to offer fully Managed [WordPress](https://wordpress.org/) website hosting. Pairing our optimized VM deployments with BlueBotCDN, we can decrease website load times by as much as 45%! We also decrease CPU utilization and Network Egress. This allows us to offer Unlimited Bandwidth to everyone! Serve more and spend less!
+We offer fully Managed WordPress website hosting. Pairing our optimized software stack with modern AMD CPUs and BlueBotCDN, we can decrease website load times by as much as 45%! We can also decrease CPU utilization and network egress. Serve more and spend less!
 
-- Free & Managed SSL Certificates
+- Free & Managed SSL/HTTPS Certificates
 - Automatic Rolling Backups
-- Unlimited Bandwidth
+- Web Application Firewall (WAF)
 - Automatic Security Patches and Plugin Updates
-- Dual Cloud Firewalls
-- 7x Data Centers in the United States and Canada
-- 17x Content Delivery PoPs
+- Multi-Layer Firewalls
 - S3 Object Storage
+- 17 Content Delivery PoPs
+- 7 Data Centers in the United States and Canads
 
-[Managed WordPress Plans!](https://www.bluebotpc.com/pages/wordpress) - [Why Host With BlueBotPC?](https://www.bluebotpc.com/pages/features)
+## [Business Services](https://www.bluebotpc.com/pages/biz-services)
 
-## Business Services
-
-I have the knowledge, resources, and network of partners to guide your business through growing IT needs. Leverage our knowledge of Networking, the Cloud, and Incident Management to guide your business into the future. Let me help you capture growth with Technology. **All work is backed by a 30 day guarantee. $100/hour**
+I have the knowledge, resources, and network of partners to guide your business through growing IT needs. Leverage our knowledge of Networking, the Cloud, and Incident Management to guide your business into the future. Let me help you capture growth with Technology. **$100/hour**
 
 - General IT Consulting
 - Network and Security Engineering
 - Managed Solutions & Web Hosting
 - Project Management
-
-[Business Services Here!](https://www.bluebotpc.com/pages/biz-services)

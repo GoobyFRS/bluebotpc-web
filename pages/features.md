@@ -3,11 +3,10 @@ layout: default
 ---
 # Features
 
-[Managed WordPress Pricing Here!](https://www.bluebotpc.com/pages/wordpress)
-
 Customer satisfaction is at the core of everything we do. That is why we provide every customer with hassle-free...
 
-- Unlimited Bandwidth*
+- Web Application Firewall with Threat Detection
+- Multi-Layer Firewalls
 - Automatic Rolling Backups
 - Automatic Security Patches
 - Automatic Plugin Updates
@@ -20,16 +19,16 @@ Customer satisfaction is at the core of everything we do. That is why we provide
 - [Full SSD Storage](https://www.linode.com/blog/linode/linode-cloud-ssds-double-ram-much-more/)
 - [QUIC.cloud CDN](https://www.quic.cloud/quic-cloud-services-and-features/quic-cloud-cdn-service/)
 - Performance & Uptime Monitoring
-- noTier Support
+- No Tier Support
 
-All of this is included to ensure your business' web servers remain available, secure, and operating at peak performance.
+All of this is included to ensure your business critical web servers remain available, secure, and operating at peak performance!
 
 ## BlueBotPC Data Centers
 
-Our Compute hardware is operated by the [Akamai Global Cloud Network](https://www.linode.com/global-infrastructure/). This provides frictionless PCI and SOC II complaince as well as world-class hardware and networking!
+Our Compute hardware is operated on the [Akamai Global Cloud Network](https://www.linode.com/global-infrastructure/). This provides frictionless PCI and SOC II complaince as well as world-class hardware and cloud networking!
 
 - Fremont, CA (us-west)
-- **Dallas, TX** (us-central)
+- Dallas, TX (us-central)
 - Chicago, IL (us-north)
 - Atlanta, GA (us-southeast)
 - Newark, NJ (us-northeast)
@@ -38,7 +37,7 @@ Our Compute hardware is operated by the [Akamai Global Cloud Network](https://ww
 
 ## BlueBotCDN
 
-BlueBotCDN is provided by [QUIC.cloud](https://www.quic.cloud/cdn-network/). Enabling HTTP/3 from Server to CDN to Customer!
+Content Delivery Networks BlueBotCDN is provided by [QUIC.cloud](https://www.quic.cloud/cdn-network/). Enabling HTTP/3 from Server to CDN to Customer!
 
 | **CDN-West**    | **CDN-Central** | **CDN-East**  | **CDN-Canada** |
 | Seattle, WA     | Dallas, TX      | Newark, NJ    | Vancouver      |

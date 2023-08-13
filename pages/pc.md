@@ -23,19 +23,12 @@ I know that homes often have the same IT needs as a small business. Between the 
 5. **Repair:** The identified root-cause is resolved and cleanup work will be performed.
 6. **Return to Customer:** Device is removed from inventory, payment is processed, and receipt is given.
 
-| **Service** | **Flat Rate** |
+| **Service**               | **Rate** |
 | Custom Length Cat6a cable | $2/foot |
-| Diagnostics Fee | $40 |
-| Power Supply Test | $25 |
-| Motherboard POST Test | $25 |
-| Memory/RAM Burn-In Test | $25 |
-| New Storage Installation | $40 |
-| OS Re-Install | $50 |
-| BIOS Update | $60 |
-| New PC Setup | $60 |
-| New Thermal Compound | $60 |
-| Virus Removal | $100 |
-| Screen Replacement* | $165 |
+| Diagnostics Fee/1st Hour  | $40 |
+| Standard Hourly Rate | $50 |
+| Virus Removal        | $100 |
+| Screen Replacement   | $165* |
 
 All Personal Computer repairs include complementary dust removal and a OS Updates! The services listed above are exempt from our hourly rate.
 
@@ -45,7 +38,7 @@ Is your wireless spotty?local  Does the printer keep falling off the network? I 
 
 ### Custom Built Desktops
 
-It doesn't matter if you are a newbie looking to build a brand new PC or just need an extra hand with your upgrade we are here to help! Our Denver family provides us access to a [MicroCenter](https://www.microcenter.com/site/stores/denver.aspx) location. Often parts are cheaper in-store versus online. We pass these saving on to you!
+It doesn't matter if you are a newbie looking to build a brand new PC or just need an extra hand with your upgrade we are here to help! Our Denver faaccmily provides us ess to a [MicroCenter](https://www.microcenter.com/site/stores/denver.aspx) location. Often parts are cheaper in-store versus online. We pass these saving on to you!
 
 | **Service** | **Fixed Cost** |
 | Air-Cooled Full-Build | $160 |
