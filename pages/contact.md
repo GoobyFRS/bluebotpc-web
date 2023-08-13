@@ -5,11 +5,9 @@ layout: default
 
 If you are interested in learning more about what BlueBotPC LLC can do for you; feel free to contact me below...
 
-**Phone:** ```303-995-9792```
+## [Schedule a Video Call](https://calendly.com/bluebotpc/consult)
 
 **Email:** ```matt@bluebotpc.com```
-
-**Snail Mail:** ```301 Birch Ave New Salem, ND 58563```
 
 **Personal Website:** ```https://www.mattfaulkner.net/```
 
