@@ -36,14 +36,14 @@ Our Compute hardware is operated on the [Akamai Global Cloud Network](https://ww
 
 ## BlueBotCDN
 
-BlueBotCDN is provided by [QUIC.cloud](https://www.quic.cloud/cdn-network/). This allows us seemless integration of modern protocols such as HTTP/3. Our customized settings optimize cost and reduce origin server network utilization.
+BlueBotCDN is provided by [QUIC.cloud](https://www.quic.cloud/cdn-network/). This allows seemless end to end HTTP/3 support. Paired with our optimized cache settings and edge rules we are able to reduce server bandwidth utilization. There is more! We can provide all the same Tier-1 CDN features for less!
 
 - Full Page Cacheing
 - Image Optimization
 - Low-Qualty Placeholder Images
 - Global DDoS Mitigation
 - Page Optimization Services
-- Native HTTP/3
+- Native HTTP/3 Support
 
 | **CDN-West**    | **CDN-Central** | **CDN-East**  | **CDN-Canada** |
 | Seattle, WA     | Dallas, TX      | Newark, NJ    | Vancouver      |
