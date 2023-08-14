@@ -5,11 +5,11 @@ layout: default
 
 If you are interested in learning more about what BlueBotPC LLC can do for you; feel free to contact me below...
 
-## [Schedule a Video Call](https://calendly.com/bluebotpc/consult)
-
 **Email:** ```matt@bluebotpc.com```
 
-**Personal Website:** ```https://www.mattfaulkner.net/```
+## [Google Maps Listing](https://goo.gl/maps/PXK3Huew2rYx4Bg3A)
+
+### [Schedule a Video Call on Calendly](https://calendly.com/bluebotpc/consult)
 
 ## About Us
 

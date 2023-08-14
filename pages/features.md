@@ -24,7 +24,7 @@ All of this is included to ensure your business critical web servers remain avai
 
 ## BlueBotPC Data Centers
 
-Our Compute hardware is operated on the [Akamai Global Cloud Network](https://www.linode.com/global-infrastructure/). This provides frictionless PCI and SOC II complaince as well as world-class hardware and cloud networking!
+Our compute hardware is operated on the [Akamai Global Cloud Network by Linode](https://www.linode.com/global-infrastructure/). This provides us with access to the most modern AMC EYPC processors in multiple geographical zones. We also leverage their highly-available Object Storage. I have been a personal Linode customer for 5 years. We share their value of open-source and flexibility.
 
 - Fremont, CA (us-west)
 - Dallas, TX (us-central)
@@ -36,7 +36,7 @@ Our Compute hardware is operated on the [Akamai Global Cloud Network](https://ww
 
 ## BlueBotCDN
 
-BlueBotCDN is provided by [QUIC.cloud](https://www.quic.cloud/cdn-network/). This allows seemless end to end HTTP/3 support. Paired with our optimized cache settings and edge rules we are able to reduce server bandwidth utilization. There is more! We can provide all the same Tier-1 CDN features for less!
+BlueBotCDN is provided by [QUIC.cloud](https://www.quic.cloud/cdn-network/). By pairing the open-source OpenLiteSpeed webserver with QUIC.cloud, we are able to provide a world-class CDN experience with more WordPress-centric features than the Cloudflare-based competitors! We will custom tune your individual cahce settings to optimize CDN utilization! My personal website runs on BlueBotCDN.
 
 - Full Page Cacheing
 - Image Optimization
