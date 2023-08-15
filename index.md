@@ -22,8 +22,9 @@ Need IT Support? Give me a ring for a _FREE_ consultation! I can support your IT
 
 ## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
 
-We offer fully Managed WordPress website hosting. Pairing our optimized software stack with Linode's modern AMD EYPC CPUs and our BlueBotCDN, we can decrease website load times by as much as 45%! We can also decrease CPU utilization and network egress. Serve more and spend less!
+We offer Managed WordPress website hosting. Pairing our optimized software stack with modern AMD EYPC CPUs and our BlueBotCDN, we can decrease website load times by as much as 45%! We can also decrease CPU utilization and network egress. Serve more and spend less!
 
+- Free Migration Support
 - Free & Managed SSL/HTTPS Certificates
 - Automatic Rolling Backups
 - Web Application Firewall (WAF)
@@ -31,11 +32,11 @@ We offer fully Managed WordPress website hosting. Pairing our optimized software
 - Multi-Layer Firewalls
 - S3 Object Storage
 - 17 Content Delivery PoPs
-- 7 Data Centers in the United States and Canads
+- 7 Data Centers in the United States and Canada
 
 ## Local Business Services
 
-Small to Medium-sized businesses in rural areas have unique challenges. That is why we offer a wide-range of support for our local businesses. Between us we have a decade of experience providing enterprise level Incident Management, Systems Analysis, Deskside Suport, and Systems Administration. **$80/Hour**
+Small to Medium-sized businesses in rural areas have unique challenges. That is why we offer a wide-range of support for our local businesses. Between us we have a decade of experience providing enterprise level Incident Management, Systems Analysis, Deskside Support, and Systems Administration. **$80/Hour**
 
 - General IT Consulting & Support
 - Network & Security Solutions

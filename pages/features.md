@@ -12,6 +12,8 @@ Customer satisfaction is at the core of everything we do. That is why we provide
 - Automatic Plugin Updates
 - Flexible PHP Workers
 - IPv4 and IPv6 Support
+- phpMyAdmin GUI
+- Unlimited Databases
 - [Managed SSL Certificates](https://www.letsencrypt.org/)
 - [Global DDoS Mitigation](https://www.linode.com/products/ddos/)
 - [AMD EYPC processors](https://www.amd.com/en/processors/epyc-7003-series)

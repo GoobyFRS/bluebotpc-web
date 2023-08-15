@@ -38,11 +38,11 @@ This implies that for every 1-minute of downtime, we credit 30 minutes to your a
 - 4.1 BlueBotPC will make all reasonable efforts to respond to support requests. Support Requests should be submitted via Email ```support@bluebotpc.com```.
 
 | **Support Window**| **CST Time**  | **First Response** |
-| **Day-Support**   | 10:00 - 17:00 | 120 minutes        |
+| **Day-Support**   | 10:00 - 17:00 | Not Applicable     |
 | **Night-Support** | 17:00 - 10:00 | Not Applicable     |
 
 ## Termination
 
-- 5.1 If BlueBotPC fails to meet the guaranteed 99.8% monthly uptime for three consecutive months, the Customer may terminate the agreement without penalty by providing written notice.
+- 5.1 If BlueBotPC fails to meet the guaranteed 99.0% monthly uptime for three consecutive months, the Customer may terminate the agreement without penalty by providing written notice.
 
 - 5.2 If the Customer fails to meet the NET14 payment agreement and the Customer account balance exceeds $100; their service will be temporarily suspended until the Invoice is settled. You will be notified by email prior to service suspension. If you do not setup a payment plan by the 28th of the month, your service will be terminated and deleted. Backups are kept for 14 days. **You have the right to request a copy of this backup**.

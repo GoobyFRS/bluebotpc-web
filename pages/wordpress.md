@@ -14,7 +14,7 @@ Includes 5GB of BlueBotCDN bandwidth every month! **Trial a Standard Plan for 7-
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Starter       | $20 | 20GB | 1TB | 60,000  |
 | Standard      | $40 | 50GB | 3TB | 100,000 |
-| Deluxe        | $85 | 75GB | 4TB | 160,000 |
+| Deluxe        | $85 | 75GB | 4TB | 260,000 |
 
 ## Premium Hosting
 

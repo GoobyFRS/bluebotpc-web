@@ -11,16 +11,20 @@ If you are interested in learning more about what BlueBotPC LLC can do for you; 
 
 ### [Schedule a Video Call on Calendly](https://calendly.com/bluebotpc/consult)
 
+### [Request Managed WordPress On-Boarding](https://www.mattfaulkner.net/bluebotpc/)
+
+The link above will redirect you to my personal BlueBotPC hosted WordPress website to collect your order information.
+
 ## About Us
 
-**Mission:** Provide honest and quality support with an open and uplifting attitude.
+**Our Mission** is to provide honest and quality IT Support and Cloud Services in an effort to bring something of positive value to our local community. We do not do this as a full-time money-making endvour. Instead we offer our services at rates we find reasonable so that we can generally support our community.
 
-**History:** I started in Aurora, Colorado as a PC Repair shop in 2015 after Graduation. In 2022 I moved to Lone Tree, Colorado and built our first PoP/Small Scale Data Center offering Game Server Hosting. As of July 1st 2023; we have relocated to North Dakota and are exploring our options for supporting this under-served community.
+**History:** I started in Aurora, Colorado as a PC Repair shop in 2015 after Graduation from Pickens Technical College.
+
+In 2022 I moved to Lone Tree, Colorado and built our first PoP/Small Scale Data Center offering Game Server Hosting. We lightly dabbled in Managed Services.
+
+As of July 1st 2023; we have relocated to North Dakota and are exploring our options for supporting this under-served community.
 
 [Link to FAQ](https://www.bluebotpc.com/pages/faq)
 
 [Link to Legal](https://www.bluebotpc.com/pages/legal/legal) - Follow this to read our Service Level Agreement, Privacy Policy, Terms of Service, and more.
-
-### [Request Managed WordPress On-Boarding](https://www.mattfaulkner.net/bluebotpc/)
-
-The link above will re-direct you to my personal WordPress website to collect your order information.
