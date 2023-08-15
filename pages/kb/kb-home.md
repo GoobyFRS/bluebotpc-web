@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: pages/kb/
 ---
 # Knowledge Base
 
@@ -50,15 +51,17 @@ Each plan is provided with an isolated Virtual Machine running on a high-perform
 - Provides advanced Layer-7 DDoS protection.
 - Under abnormally high traffic conditions, CDN-level reCAPTCHA kicks in to challenge non-Trusted visitors.
 
-| **Plan**       | **Bandwidth** | **Service Supports** |
-| Standard Plans | 5GB | Best-Effort CDN queue priority |
-| Premium Plans  | 1TB | Expedite queue priority |
+Bandwidth Overage Fees do not apply to BlueBotCDN. CDN and Online Services use Vendor Credits. 20 Credits = 1GB Bandwidth.
 
-Standard Plans are eligible for Expedited CDN priority if....
+| **Plan**       | **Bandwidth/Credits** | **Service Supports** |
+| Standard Plans | 5GB / 100 Credits    | Best-Effort queue priority |
+| Premium Plans  | 1TB / 20,480 Credits | Expedite queue priority while credits last. |
+
+Standard Plans are eligible for Expedited CDN priority if BlueBotCDN-Extra is purchased. If a Premium Plan also purchases BlueBotCDN-Exta, they are allocated an additional 20,480 credits.
 
 ### Object Storage Specifications
 
-Standard Plans are not eligible for Object Storage at this time.
+Standard Plans are not eligible for Object Storage at this time. Ideal for High Quality Content Sharing.
 
 - S3-compatible storage solution
 - Stored data is durable and fault-tolerant
@@ -72,3 +75,14 @@ Standard Plans are not eligible for Object Storage at this time.
 **Rate limiting:** 750 requests per second per bucket.
 
 **Restricted file name characters:** ```" ' < > & + =```
+
+### Total Cost of Subscription Evaluation
+
+| **Plan**     | **Monthly** | **Quarterly** | **Yearly** | **2-Year** | **3-Year** |
+| Starter      | $20         | $77           | $220       | $440       | $660   |
+| Standard     | $40         | $153          | $440       | $875       | $1,310 |
+| Deluxe       | $85         | $320          | $925       | $1,850     | $2,780 |
+| Professional | $100        | $380          | $1,090     | $2,180     | $3,272 |
+| Ultimate     | $250        | $950          | $2,730     | $5,450     | $8,182 |
+
+**Monthly** is at the base rate. **Quarterly** and **Yearly** subscriptions have applicable discounts applied. **2-Year** and **3-Year** assume the Yearly 10% discount.

@@ -21,7 +21,7 @@ Customer Orders over $500 will require a non-refundable 20% deposit. Disputes ca
 
 Refunds & Cancellations are processed daily at 5PM (1700) CST. Refunds and Cancellations submitted after 5PM are processed the next business day.
 
-**Bandwidth Overage Fee:** If you violate the Bandwidth allocation, you will be billed an additional $10/TB on your next invoice.
+**Bandwidth Overage Fee:** If you violate the Bandwidth allocation, you will be billed an additional $10/TB on your next invoice. Repeat offenders may be required to upgrade their plan. This is only for Web Server bandwidth limits and do not apply to BlueBotCDN.
 
 - Quarterly subscriptions receive an automatic 5% discount.
 - Yearly subscriptions receive an automatic 10% discount.

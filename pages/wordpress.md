@@ -7,14 +7,14 @@ I take pride in delivering world-class uptime, customer service, and security to
 
 ## Standard Hosting
 
-**Standard** plans offer industry-leading price to performance that fit the bill for most our customers. Designed for anyone who wants a website. We can help you get online at an affordable price!
+**Standard** plans offer industry-leading price to performance and fit the needs for most customers. Designed for anyone who wants a website. We can help you get online at an affordable price!
 
 Includes 5GB of BlueBotCDN bandwidth every month! **Trial a Standard Plan for 7-days Free.** [Click Here to get started!](https://www.mattfaulkner.net/bluebotpc/)
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
-| Starter       | $20 | 20GB | 1TB | 60,000  |
-| Standard      | $40 | 50GB | 3TB | 100,000 |
-| Deluxe        | $85 | 75GB | 4TB | 260,000 |
+| Starter       | $20 | 20GB | 1TB | ~60,000  |
+| Standard      | $40 | 50GB | 3TB | ~100,000 |
+| Deluxe        | $85 | 75GB | 4TB | ~260,000 |
 
 ## Premium Hosting
 
@@ -23,15 +23,14 @@ Includes 5GB of BlueBotCDN bandwidth every month! **Trial a Standard Plan for 7-
 Include 1TB of BlueBotCDN bandwidth plus 250GB of S3-compatible Cloud Storage! [Click Here to get started!](https://www.mattfaulkner.net/bluebotpc/)
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
-| Professional | $100 | 75GB  | 5TB | 300,000 |
-| Ultimate     | $250 | 150GB | 6TB | 500,000 |
+| Professional | $100 | 75GB  | 5TB | ~300,000 |
+| Ultimate     | $250 | 150GB | 6TB | ~500,000 |
 
 ### Complementary Paid Services
 
 | **Add-On** | **Cost** | **Description** |
-| Domain Registration | $20/Year  | I will help you purchase a Domain. |
-| Managed Public DNS  | $10/Month | I will manage your DNS records. |
-| NOC Package         | $20/Month | Deeper Analytics, Faster Incident Response! |
-| BlueBotCDN          | $35/Month | Extended CDN Support for Business Critical Sites |
+| Domain Registration | $20 | I will help you purchase a Domain with WHOIS privacy. |
+| Managed DNS         | $10/Month | I will manage your Public DNS records. |
+| BlueBotCDN-Extra    | $35/Month | Extended CDN Support |
 
 [Click Here to get started](https://www.mattfaulkner.net/bluebotpc/)
