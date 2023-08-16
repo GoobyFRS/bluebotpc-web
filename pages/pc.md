@@ -3,11 +3,11 @@ layout: default
 ---
 # IT Services
 
-I know that homes often have the same IT needs as a small business. Between the increase in work-from-home, the Smart TVs, the security systems, and the gaming consoles. Whether you need to drop off a device with us or we need to make a house-call, we are here to help! **All work is backed by a 30 day guarantee. $40 Diagnostics then $50/hour.**
+I know that rural communities have unique IT challenges. Talent and hardware availability are just the tip of the iceberg. If you need IT support in the Home, Shop, Farm, Small or Medium-sized business; we are here to help! We can support just about any type of device if the documentation for it is available.
 
 - Desktop and Laptop Hardware Repairs
 - Malware/Virus Removal
-- Operating System (OS) Repairs and Support
+- Smart TV serup
 - Home Network Setup and Support
 - Printer Setup and Troubleshooting
 - Custom PC Builds and Upgrades
@@ -16,12 +16,7 @@ I know that homes often have the same IT needs as a small business. Between the 
 
 ## Desktop and Laptop Repair
 
-1. **Free Consultation:** We visually inspect your computer for damage, talk to you about your experience, and perform basic troubleshooting. We will make at least two recommendations for how to proceed.
-2. **Intake:** Device is added to our inventory tracking system. You are provided a Ticket Number.
-3. **Troubleshooting Desk:** Device undergoes a full software/hardware diagnostics workflow to ensure we identify and resolve the root-cause. This cost $40 up-front. These tests commonly take over 2 hours to complete.
-4. **Cost Approval:** If we determine you will be charged more than the original quote, we stop here for your cost increase approval.
-5. **Repair:** The identified root-cause is resolved and cleanup work will be performed.
-6. **Return to Customer:** Device is removed from inventory, payment is processed, and receipt is given.
+We provide support for all major brands of Laptop & Desktop hardware.
 
 | **Service**               | **Rate** |
 | Custom Length Cat6a cable | $2/foot |
@@ -31,15 +26,17 @@ I know that homes often have the same IT needs as a small business. Between the 
 | Virus Removal        | $100 |
 | Screen Replacement   | $165* |
 
-All Personal Computer repairs include complementary dust removal and a OS Updates! The services listed above are exempt from our hourly rate.
+All Personal Computer repairs include complementary dust removal and a OS Updates!
+
+Laptop Screen Replacements start at $165. This price may increase if the replacement hardware is greater than $165.
 
 ### Home Network Support
 
-Is your wireless spotty?local  Does the printer keep falling off the network? I am your Network expert and I can help you diagnose, resolve, or become educated on all things networking! **$50/hour Flat Rate**
+Spotty WiFi? Keep loosing connection to the Printer? I am your local Network expert and I can help you diagnose, resolve, and become educated on all things networking! **$50/hour Flat Rate**
 
 ### Custom Built Desktops
 
-It doesn't matter if you are a newbie looking to build a brand new PC or just need an extra hand with your upgrade we are here to help! Our Denver faaccmily provides us ess to a [MicroCenter](https://www.microcenter.com/site/stores/denver.aspx) location. Often parts are cheaper in-store versus online. We pass these saving on to you!
+It doesn't matter if you are a newbie looking to build a brand new PC or just need an extra hand with your upgrade; We are here to help! Our Denver family provides us access to a [MicroCenter](https://www.microcenter.com/site/stores/denver.aspx) location. Often parts are cheaper in-store versus online. We pass these saving on to you!
 
 | **Service** | **Fixed Cost** |
 | Air-Cooled Full-Build | $160 |
@@ -64,3 +61,12 @@ I am your local Cisco and Juniper Networks expert! I offer support designing, de
 - [Cisco](https://www.cisco.com/) switches, routers, and Merakis.
 - [Juniper](https://www.juniper.net/us/en.html) switches and routers.
 - [Aruba](https://www.arubanetworks.com/) switches, wireless controllers, and wireless access points.
+
+### Repair Process
+
+1. **Free Consultation:** We visually inspect your computer for damage, talk to you about your experience, and perform basic troubleshooting. We will make at least two recommendations for how to proceed.
+2. **Intake:** Device is added to our inventory tracking system. You are provided a Ticket Number.
+3. **Troubleshooting Desk:** Device undergoes a full software/hardware diagnostics workflow to ensure we identify and resolve the root cause.
+4. **Cost Approval:** If we determine you will be charged more than the original quote, we stop here for your cost increase approval.
+5. **Repair:** The identified root cause is resolved and cleanup work will be performed.
+6. **Return to Customer:** Device is removed from inventory, payment is processed, and receipt is given.

@@ -22,13 +22,13 @@ Each plan is provided with an isolated Virtual Machine running on a high-perform
 ### Software Specifications
 
 | **Package**   | **Version** |
-| Kernel        | 6.2.9 |
+| Kernel        | 6.2 |
 | Ubuntu Server | 22.04 LTS |
-| OpenLiteSpeed | 1.7.17 |
-| WordPress     | 6.2 |
+| OpenLiteSpeed | 1.7 |
 | lsPHP         | 8.1 |
 | MariaDB       | 10.11 |
 | Redis         | 6.0.16 |
+| WordPress     | 6.2 |
 | Python        | 3.9 |
 
 **Pre-Installed Plugins:**
