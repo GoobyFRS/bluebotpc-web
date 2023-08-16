@@ -38,6 +38,32 @@ Each plan is provided with an isolated Virtual Machine running on a high-perform
 - Litespeed Cache
 - WPS Hide Login
 
+### Network Specifications
+
+| **Plan**     | **Network-Out** | **Network-In** |
+| Starter      | 1Gbps | 40Gbps |
+| Standard     | 2Gbps | 40Gbps |
+| Deluxe       | 4Gbps | 40Gbps |
+| Professional | 4Gbps | 40Gbps |
+| Ultimate     | 5Gbps | 40Gbps |
+
+### Object Storage Specifications
+
+Standard Plans are not eligible for Object Storage at this time. Ideal for High Quality Content Sharing.
+
+- S3-compatible storage solution
+- Stored data is durable and fault-tolerant
+- Objects can be accessed through unique URLs
+- Unlimited Bandwidth offered.
+
+[s4cmd Tool Guide](https://www.linode.com/docs/products/storage/object-storage/guides/s4cmd/)
+
+**Maximum individual file upload size:** 5GB
+
+**Rate limiting:** 750 requests per second per bucket.
+
+**Restricted file name characters:** ```" ' < > & + =```
+
 ### Content Delivery Network Specifications
 
 [Friendly Bot Allowlist](https://www.quic.cloud/docs/cdn/friendly-bot-allowlist/)
@@ -58,23 +84,6 @@ Bandwidth Overage Fees do not apply to BlueBotCDN. CDN and Online Services use V
 | Premium Plans  | 1TB / 20,480 Credits | Expedite queue priority while credits last. |
 
 Standard Plans are eligible for Expedited CDN priority if BlueBotCDN-Extra is purchased. If a Premium Plan also purchases BlueBotCDN-Exta, they are allocated an additional 20,480 credits.
-
-### Object Storage Specifications
-
-Standard Plans are not eligible for Object Storage at this time. Ideal for High Quality Content Sharing.
-
-- S3-compatible storage solution
-- Stored data is durable and fault-tolerant
-- Objects can be accessed through unique URLs
-- Unlimited Bandwidth offered.
-
-[s4cmd Tool Guide](https://www.linode.com/docs/products/storage/object-storage/guides/s4cmd/)
-
-**Maximum individual file upload size:** 5GB
-
-**Rate limiting:** 750 requests per second per bucket.
-
-**Restricted file name characters:** ```" ' < > & + =```
 
 ### Total Cost of Subscription Evaluation
 
