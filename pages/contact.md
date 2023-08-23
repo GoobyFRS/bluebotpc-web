@@ -27,4 +27,6 @@ As of July 1st 2023; we have relocated to North Dakota and are exploring our opt
 
 [Link to FAQ](https://www.bluebotpc.com/pages/faq)
 
-[Link to Legal](https://www.bluebotpc.com/pages/legal/legal) - Follow this to read our Service Level Agreement, Privacy Policy, Terms of Service, and more.
+[Link to Legal](https://www.bluebotpc.com/pages/legal/legal)
+
+[Link to KB](https://www.bluebotpc.com/pages/kb/)

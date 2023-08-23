@@ -15,7 +15,7 @@ permalink: pages/kb/
 
 Each plan is provided with an isolated Virtual Machine running on a high-performance KVM hypervisor with [AMD EYPC](https://www.linode.com/amd/) processors.
 
-**Standard Plans:** AMD EYPC Naples (7001 Series) & AMD EYPC Rome (7002 Series)
+**Standard Plans:** AMD EYPC Naples (7001 Series), Rome (7002 Series), & Milan (7003 Series)
 
 **Premium Plans:** AMD EYPC - Milan (7003 Series)
 
@@ -27,7 +27,7 @@ Each plan is provided with an isolated Virtual Machine running on a high-perform
 | OpenLiteSpeed | 1.7 |
 | lsPHP         | 8.1 |
 | MariaDB       | 10.11 |
-| Redis         | 6.0.16 |
+| Redis         | 6.0 |
 | WordPress     | 6.2 |
 | Python        | 3.9 |
 
