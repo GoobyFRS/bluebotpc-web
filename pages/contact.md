@@ -25,8 +25,6 @@ In 2022 I moved to Lone Tree, Colorado and built our first PoP/Small Scale Data 
 
 As of July 1st 2023; we have relocated to North Dakota and are exploring our options for supporting this under-served community.
 
-[Link to FAQ](https://www.bluebotpc.com/pages/faq)
-
 [Link to Legal](https://www.bluebotpc.com/pages/legal/legal)
 
-[Link to KB](https://www.bluebotpc.com/pages/kb/)
+[Link to Knowledge Base](https://www.bluebotpc.com/pages/kb/)
