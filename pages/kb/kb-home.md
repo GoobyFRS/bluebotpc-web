@@ -77,3 +77,12 @@ Standard Plans are eligible for Expedited CDN priority if BlueBotCDN-Extra is pu
 | Ultimate     | $250        | $950          | $2,730     | $5,450     | $8,182 |
 
 **Monthly** is at the base rate. **Quarterly** and **Yearly** subscriptions have applicable discounts applied. **2-Year** and **3-Year** assume the Yearly 10% discount.
+
+#### CyberPanel Add-Ons
+
+- WordPress Manager
+- Backups V2
+- SSLv2
+- Root File Manager
+- RSPAMD Manager
+- Apache as Reverse Proxy

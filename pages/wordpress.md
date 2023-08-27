@@ -7,7 +7,7 @@ We take pride in delivering world-class uptime, customer service, and security t
 
 ## Standard Hosting
 
-**Standard** plans offer industry-leading performance and fit the needs for most customers. Designed for anyone; We can help you get online at an affordable price!
+**Standard** plans offer industry-leading performance and fit the needs for most customers. Designed for anyone! Running OpenLiteSpeed
 
 Includes 5GB of BlueBotCDN bandwidth every month! **Trial a Standard Plan for 7-days Free.** [Click Here to get started!](https://www.mattfaulkner.net/bluebotpc/)
 
@@ -18,12 +18,12 @@ Includes 5GB of BlueBotCDN bandwidth every month! **Trial a Standard Plan for 7-
 
 ## Premium Hosting
 
-**Premium** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops that operate as Full-Time income. Operating with the newest AMD EYPC processors to tackle even the most intense workloads!
+**Premium** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops that operate as Full-Time income. Operating with the newest AMD EYPC processors to tackle even the most intense workloads! Comes with **CyberPanel** with all Add-Ons by default!
 
 Includes 1TB of BlueBotCDN monthly bandwidth plus 250GB of Cloud Object Storage! [Click Here to get started!](https://www.mattfaulkner.net/bluebotpc/)
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
-| Professional | $100 | 75GB  | 5TB | ~300,000 |
+| Professional | $125 | 75GB  | 5TB | ~300,000 |
 | Ultimate     | $250 | 150GB | 6TB | ~500,000 |
 
 ### Complementary Paid Services
@@ -31,6 +31,7 @@ Includes 1TB of BlueBotCDN monthly bandwidth plus 250GB of Cloud Object Storage!
 | **Add-On** | **Cost** | **Description** |
 | Domain Registration | $20/One Time | I will help you purchase a Domain with WHOIS privacy. |
 | Managed DNS         | $10/Month | I will manage your Public DNS records. |
-| BlueBotCDN          | $35/Month | Extended CDN Support |
+| BlueBotCDN          | $35/Month | Extended WordPress-first CDN Support |
+| LiteSpeed Enterprise | $50/Month | Enterprise Level Web Server Support |
 
 [Click Here to get started](https://www.mattfaulkner.net/bluebotpc/)

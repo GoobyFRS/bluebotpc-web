@@ -19,6 +19,8 @@ The link above will redirect you to my personal BlueBotPC hosted WordPress websi
 
 **Our Mission** is to provide honest and quality IT Support and Cloud Services in an effort to bring something of positive value to our local community. We do not do this as a full-time money-making endvour. Instead we offer our services at rates we find reasonable so that we can generally support our community.
 
+We highly value privacy and security online. We also highly value Open Source Software and the community that contributes to it!
+
 **History:** I started in Aurora, Colorado as a PC Repair shop in 2015 after Graduation from Pickens Technical College.
 
 In 2022 I moved to Lone Tree, Colorado and built our first PoP/Small Scale Data Center offering Game Server Hosting. We lightly dabbled in Managed Services.

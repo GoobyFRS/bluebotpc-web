@@ -4,7 +4,7 @@ permalink: pages/test
 ---
 # Heading One
 
-__what is this?__
+_what is this?_
 
 ## Heading Two
 
@@ -13,8 +13,6 @@ __what is this?__
 ### Heading Three
 
 ```code```
-
-![wordpress svg](/assets/img/wordpress.svg)
 
 ![pc repair banner](/assets/img/pc_repair.png)
 

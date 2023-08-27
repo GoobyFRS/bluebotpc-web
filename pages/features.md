@@ -54,3 +54,12 @@ Pairing the open-source OpenLiteSpeed webserver with QUIC.cloud, we are able to 
 | Fremont, CA     | Chicago, IL     | Atlanta, GA   | Toronto        |
 | Los Angeles, CA | Kansas City, MO | Orlando, FL   |                |
 | San Diego, CA   |                 | Miami, FL     |                |
+
+### CyberPanel Add-Ons
+
+- WordPress Manager
+- Backups V2
+- SSLv2
+- Root File Manager
+- RSPAMD Manager
+- Apache as Reverse Proxy
