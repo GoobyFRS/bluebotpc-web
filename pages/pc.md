@@ -3,16 +3,15 @@ layout: default
 ---
 # IT Services
 
-I know that rural communities have unique IT challenges. Talent and hardware availability are just the tip of the iceberg. If you need IT support in the Home, Shop, Farm, Small or Medium-sized business; we are here to help! We can support just about any type of device if the documentation for it is available.
+We know that rural communities have unique IT challenges. Talent and hardware availability are just the tip of the iceberg. If you need IT support at Home, or in the Shop, Farm, Small-Medium-sized business; we are here to help! We can support just about any type of device if the documentation for it is available.
 
-- Desktop and Laptop Hardware Repairs
+- Desktop & Laptop Repairs
 - Malware/Virus Removal
-- Smart TV serup
+- Smart TV setup
 - Home Network Setup and Support
-- Printer Setup and Troubleshooting
+- Printer Setup and Support
 - Custom PC Builds and Upgrades
 - Nikon Camera Services
-- Educational Services
 
 ## Desktop and Laptop Repair
 
@@ -32,7 +31,7 @@ Laptop Screen Replacements start at $165. This price may increase if the replace
 
 ### Home Network Support
 
-Spotty WiFi? Keep loosing connection to the Printer? I am your local Network expert and I can help you diagnose, resolve, and become educated on all things networking! **$50/hour Flat Rate**
+Spotty WiFi? Losing connection to the Printer? I am your local Network expert and I can help you diagnose, resolve, and become educated on all things networking! **$50/hour Flat Rate**
 
 ### Custom Built Desktops
 
@@ -42,7 +41,7 @@ It doesn't matter if you are a newbie looking to build a brand new PC or just ne
 | Air-Cooled Full-Build | $160 |
 | Water AIO Full-Build  | $200 |
 
-**Warranty Disclaimer:** Full-Build computers are backed by a 1-Year warranty. Guaranteed to be free of hardware and assembly defects. Void if used for Crypto-mining or if there is evidence of water/liquid damage.
+**Warranty Disclaimer:** Full-Build computers are backed by a 1-Year warranty. Guaranteed to be free of hardware and assembly defects.
 
 ### Nikon Camera Services
 

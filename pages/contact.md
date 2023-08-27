@@ -32,3 +32,5 @@ As of July 1st 2023; we have relocated to North Dakota and are exploring our opt
 [Link to Legal](https://www.bluebotpc.com/pages/legal/legal)
 
 [Link to Knowledge Base](https://www.bluebotpc.com/pages/kb/)
+
+[Link to Network Status](https://uptime.bluebotpc.com/status/home)

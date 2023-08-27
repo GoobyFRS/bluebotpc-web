@@ -13,24 +13,22 @@ Need IT Support? Give us a ring for a _FREE_ consultation! We can support your I
 - Printer Setup and Support
 - Custom PC Builds and Upgrades
 - Nikon Camera Services
-- Educational Services
 - Much More!
 
-Accepting Desktop & Laptop Repairs by mail to support normal folks nationwide repair their technology!
+Offering Desktop & Laptop repair services nationwide by USPS Mail!
 
 ![ManagedWordPressBanner](/assets/img/managed_wordpress.png)
 
 ## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
 
-Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed or LiteSpeed Enterprise software stack! Paired with NVMe Storage and a WordPress-first CDN, we can decrease website load times by as much as 45%! All **Premium** Plans include CyberPanel with Add-Ons!
+Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed or LiteSpeed Enterprise software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%! All **Premium** Plans include CyberPanel with Add-Ons!
 
 - Free Migration Support
 - Free & Managed SSL/HTTPS Certificates
 - Automatic Rolling Backups
-- Web Application Firewall (WAF)
+- Multi-Layer Firewalls including WAF
 - Automatic Security Patches and Plugin Updates
-- Multi-Layer Firewalls
-- S3 Object Storage
+- Highly-Available Object Storage
 - 17 Content Delivery PoPs
 - 7 Data Centers in the United States and Canada
 
