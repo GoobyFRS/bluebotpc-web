@@ -2,6 +2,22 @@
 
 Family-owned IT Services Provider based in New Salem, North Dakota serving the local community. Offering affordable PC Repair and Managed WordPress website hosting!
 
+![PcRepairBanner](/assets/img/pc_repair.png)
+
+## [Personal PC Repair](https://www.bluebotpc.com/pages/pc)
+
+Need IT Support? Give us a ring for a _FREE_ consultation! We can support your IT needs on your schedule. Even if you do not see what you need listed below, give us a shout. **$50/hour; 30 day guarantee.**
+
+- Desktop & Laptop Repair
+- Home Network Support
+- Printer Setup and Support
+- Custom PC Builds and Upgrades
+- Nikon Camera Services
+- Educational Services
+- Much More!
+
+Accepting Desktop & Laptop Repairs by mail to support normal folks nationwide repair their technology!
+
 ![ManagedWordPressBanner](/assets/img/managed_wordpress.png)
 
 ## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
@@ -17,20 +33,6 @@ Let our Team of Cloud Professionals manage the security and availability of your
 - S3 Object Storage
 - 17 Content Delivery PoPs
 - 7 Data Centers in the United States and Canada
-
-![PcRepairBanner](/assets/img/pc_repair.png)
-
-## [Personal PC Repair](https://www.bluebotpc.com/pages/pc)
-
-Need IT Support? Give us a ring for a _FREE_ consultation! We can support your IT needs on your schedule. Even if you do not see what you need listed below, give us a shout. **$50/hour; 30 day guarantee.**
-
-- Desktop & Laptop Repair
-- Home Network Support
-- Printer Setup and Support
-- Custom PC Builds and Upgrades
-- Nikon Camera Services
-- Educational Services
-- Much More!
 
 ![SMBBanner](/assets/img/business_services_banner.png)
 

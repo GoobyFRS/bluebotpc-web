@@ -7,7 +7,7 @@ We take pride in delivering world-class uptime, customer service, and security t
 
 ## Standard Hosting
 
-**Standard** plans offer industry-leading performance and fit the needs for most customers. Designed for anyone! Running OpenLiteSpeed
+**Standard** plans running OpenLiteSpeed offer industry-leading performance and fit the needs for most customers. Designed for anyone!
 
 Includes 5GB of BlueBotCDN bandwidth every month! **Trial a Standard Plan for 7-days Free.** [Click Here to get started!](https://www.mattfaulkner.net/bluebotpc/)
 
