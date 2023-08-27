@@ -15,7 +15,7 @@ Need IT Support? Give us a ring for a _FREE_ consultation! We can support your I
 - Nikon Camera Services
 - Much More!
 
-Offering Desktop & Laptop repair services nationwide by USPS Mail!
+Offering Desktop & Laptop repair services nationwide by USPS Mail! [Click Here to Open a Support Ticket](https://www.mattfaulkner.net/support/)
 
 ![ManagedWordPressBanner](/assets/img/managed_wordpress.png)
 
