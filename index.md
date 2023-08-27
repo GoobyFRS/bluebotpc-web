@@ -6,9 +6,9 @@ Family-owned IT Services Provider based in New Salem, North Dakota serving the l
 
 Need IT Support? Give us a ring for a _FREE_ consultation! We can support your IT needs on your schedule. Even if you do not see what you need listed below, give us a shout. **$50/hour; 30 day guarantee.**
 
-- Desktop and Laptop Repairs
-- Home Network Setup and Support
-- Printer Setup and Troubleshooting
+- Desktop & Laptop Repair
+- Home Network Support
+- Printer Setup and Support
 - Custom PC Builds and Upgrades
 - Nikon Camera Services
 - Educational Services
@@ -16,7 +16,7 @@ Need IT Support? Give us a ring for a _FREE_ consultation! We can support your I
 
 ## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
 
-We offer Managed WordPress website hosting. Pairing our optimized software stack with modern hardware and a WordPress-first CDN, we can decrease website load times by as much as 45%! We can also decrease CPU utilization and network egress. Serve more and spend less!
+We offer Managed WordPress website hosting. Pairing our optimized software stack with modern hardware and a WordPress-first CDN, we can decrease website load times by as much as 45%! Let our team of professionals manage the security and availability of your web services so that you can focus on selling!
 
 - Free Migration Support
 - Free & Managed SSL/HTTPS Certificates
