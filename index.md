@@ -21,7 +21,7 @@ Offering Desktop & Laptop repair services nationwide by USPS Mail! [Click Here t
 
 ## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
 
-Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed or LiteSpeed Enterprise software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%! All **Premium** Plans include CyberPanel with Add-Ons!
+Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed or LiteSpeed Enterprise software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%!
 
 - Free Migration Support
 - Free & Managed SSL/HTTPS Certificates
