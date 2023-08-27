@@ -6,13 +6,12 @@ layout: default
 Customer satisfaction is at the core of everything we do. That is why we provide every customer with hassle-free...
 
 - Multi-Layer Firewalls with Threat Detection
+- [Managed SSL Certificates by Let's Encrypt](https://www.letsencrypt.org/)
+- [Full SSD Storage](https://www.linode.com/blog/linode/linode-cloud-ssds-double-ram-much-more/)
+- [Included CDN](https://www.quic.cloud/quic-cloud-services-and-features/quic-cloud-cdn-service/)
 - Active Performance & Uptime Monitoring
 - Automatic Backups, Security Patches & Plugin Updates
 - Flexible PHP Workers
-- phpMyAdmin
-- [Managed SSL Certificates by Let's Encrypt](https://www.letsencrypt.org/)
-- [Full SSD Storage](https://www.linode.com/blog/linode/linode-cloud-ssds-double-ram-much-more/)
-- [QUIC.cloud CDN](https://www.quic.cloud/quic-cloud-services-and-features/quic-cloud-cdn-service/)
 
 All of this is included to ensure your business critical web servers remain available, secure, and operating at peak performance!
 

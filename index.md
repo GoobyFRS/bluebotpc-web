@@ -21,16 +21,15 @@ Offering Desktop & Laptop repair services nationwide by USPS Mail! [Click Here t
 
 ## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
 
-Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed or LiteSpeed Enterprise software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%!
+Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%!
 
-- Free Migration Support
-- Free & Managed SSL/HTTPS Certificates
-- Automatic Rolling Backups
-- Multi-Layer Firewalls including WAF
-- Automatic Security Patches and Plugin Updates
+- Included Migration Support
+- [Managed SSL Certificates](https://www.letsencrypt.org/)
+- Automatic Backups, Security Patches & Plugin Updates!
+- Multi-Layer Firewalls including WAF!
 - Highly-Available Object Storage
-- 17 Content Delivery PoPs
-- 7 Data Centers in the United States and Canada
+- 7 State of the Art Data Centers in the United States and Canada
+- WordPress-first CDN
 
 ![SMBBanner](/assets/img/business_services_banner.png)
 
