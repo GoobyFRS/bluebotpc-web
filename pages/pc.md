@@ -13,6 +13,8 @@ We know that rural communities have unique IT challenges. Talent and hardware av
 - Custom PC Builds and Upgrades
 - Nikon Camera Services
 
+[Click Here to Open a Support Ticket](https://www.mattfaulkner.net/support/)
+
 ## Desktop and Laptop Repair
 
 We provide support for all major brands of Laptop & Desktop hardware.
@@ -28,6 +30,8 @@ We provide support for all major brands of Laptop & Desktop hardware.
 All Personal Computer repairs include complementary dust removal and a OS Updates!
 
 Laptop Screen Replacements start at $165. This price may increase if the replacement hardware is greater than $165.
+
+[Click Here to Open a Support Ticket](https://www.mattfaulkner.net/support/)
 
 ### Home Network Support
 

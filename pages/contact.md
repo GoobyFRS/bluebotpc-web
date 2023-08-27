@@ -31,6 +31,8 @@ As of July 1st 2023; we have relocated to North Dakota and are exploring our opt
 
 [Link to Legal](https://www.bluebotpc.com/pages/legal/legal)
 
+[Click Here to Open a Support Ticket](https://www.mattfaulkner.net/support/)
+
 [Link to Knowledge Base](https://www.bluebotpc.com/pages/kb/)
 
 [Link to Network Status](https://uptime.bluebotpc.com/status/home)
