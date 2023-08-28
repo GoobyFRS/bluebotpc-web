@@ -18,7 +18,7 @@ Includes 5GB of BlueBotCDN bandwidth every month! **Trial a Standard Plan for 7-
 
 ## Premium Hosting
 
-**Premium** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops! Operating with the latest AMD EYPC processors to tackle even the most intense workloads!
+**Premium** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops! Going the extra-mile, our Premium plans offer Extended CDN Support & Object Storage. This offers a unique method of content delivery and extending the capabilities of our customers!
 
 Includes 1TB of BlueBotCDN monthly bandwidth plus 250GB of Object Storage! [Click Here to get started!](https://www.mattfaulkner.net/bluebotpc/)
 

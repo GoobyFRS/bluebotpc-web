@@ -29,7 +29,7 @@ Let our Team of Cloud Professionals manage the security and availability of your
 - Multi-Layer Firewalls including WAF!
 - Highly-Available Object Storage
 - 7 State of the Art Data Centers in the United States and Canada
-- WordPress-first CDN
+- Integrated WordPress-first CDN
 
 ![SMBBanner](/assets/img/business_services_banner.png)
 

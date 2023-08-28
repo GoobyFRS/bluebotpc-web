@@ -29,7 +29,7 @@ Our compute hardware is operated on the [Akamai Global Cloud Network by Linode](
 
 ## BlueBotCDN
 
-Pairing the open-source OpenLiteSpeed webserver with QUIC.cloud, we are able to provide a world-class CDN experience with more WordPress-centric features than the Cloudflare-based competitors! We will custom tune your individual cahce settings to optimize CDN utilization!
+Pairing the open-source OpenLiteSpeed webserver with QUIC.cloud, we are able to provide a world-class CDN experience with more WordPress-centric features than the Cloudflare-based competitors! We will custom tune your individual cahce settings to optimize your CDN utilization!
 
 ![QUIC Banner Lite](https://www.quic.cloud/wp-content/uploads/2022/10/quic-cloud-logo-light_600px-1.png)
 
