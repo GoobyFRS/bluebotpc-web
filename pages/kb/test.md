@@ -12,7 +12,7 @@ _what is this?_
 
 ### Heading Three
 
-| ![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png) | Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%! |
+| ![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png) | This looks fine tho |
 
 - Included Migration Support
 - [Managed SSL Certificates](https://www.letsencrypt.org/)

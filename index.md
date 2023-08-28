@@ -31,8 +31,6 @@ Let our Team of Cloud Professionals manage the security and availability of your
 
 ![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png)
 
-![SMBBanner](/assets/img/business_services_banner.png)
-
 ## [Local Business Services](https://www.bluebotpc.com/pages/pc/)
 
 Small to Medium-sized businesses in rural areas have unique challenges. That is why we offer a wide-range of support for our local businesses. Between us we have a decade of experience providing enterprise level Incident Management, Systems Analysis, Deskside Support, and Systems Administration. **$80/Hour**
@@ -41,4 +39,3 @@ Small to Medium-sized businesses in rural areas have unique challenges. That is 
 - Network & Security Solutions
 - Managed Cloud Solutions
 - Low-Voltage Services
-- Long-Term Project Management
