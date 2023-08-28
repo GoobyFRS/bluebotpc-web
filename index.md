@@ -17,8 +17,6 @@ Need IT Support? Give us a ring for a _FREE_ consultation! We can support your I
 
 Offering Desktop & Laptop repair services nationwide by USPS Mail! [Click Here to Open a Support Ticket](https://www.mattfaulkner.net/support/)
 
-![ManagedWordPressBanner](/assets/img/managed_wordpress.png)
-
 ## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
 
 Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%!
@@ -30,6 +28,8 @@ Let our Team of Cloud Professionals manage the security and availability of your
 - Highly-Available Object Storage
 - 7 State of the Art Data Centers in the United States and Canada
 - Integrated WordPress-first CDN
+
+![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png)
 
 ![SMBBanner](/assets/img/business_services_banner.png)
 

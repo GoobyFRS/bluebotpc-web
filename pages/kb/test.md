@@ -12,12 +12,4 @@ _what is this?_
 
 ### Heading Three
 
-```code```
-
-![pc repair banner](/assets/img/pc_repair.png)
-
-![managed wordpress banner](/assets/img/managed_wordpress.png)
-
-![biz serv banner](/assets/img/business_services_banner.png)
-
-This is a paragraph too.
+| ![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png) | some text on the side |

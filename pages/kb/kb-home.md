@@ -4,11 +4,25 @@ permalink: pages/kb/
 ---
 # Knowledge Base
 
-Each plan is provided with an isolated Virtual Machine running on a high-performance KVM hypervisor with [AMD EYPC](https://www.linode.com/amd/) processors.
+## Hardware Specifications
 
-**Standard Plans:** AMD EYPC Naples (7001 Series), Rome (7002 Series), & Milan (7003 Series)
+| **Plan**     | **vCPU** | **Memory** | **SSD** | **Bandwidth** | **PHP Workers** | **Type** |
+| Starter      | 1 | 1GB | 20GB | 1TB | 2 | Shared |
+| Standard     | 1 | 2GB | 50GB | 2TB | 2 | Shared |
+| Deluxe       | 2 | 4GB | 75GB | 4TB | 4 | Shared |
+| Professional | 2 | 4GB | 75GB | 4TB | 4 | Dedicated |
+| Ultimate     | 4 | 8GB | 150GB | 5TB | 6 | Dedicated |
 
-**Premium Plans:** AMD EYPC - Milan (7003 Series)
+## Network Specifications
+
+| **Plan**     | **Network-Out** | **Network-In** |
+| Starter      | 1Gbps | 40Gbps |
+| Standard     | 2Gbps | 40Gbps |
+| Deluxe       | 4Gbps | 40Gbps |
+| Professional | 4Gbps | 40Gbps |
+| Ultimate     | 5Gbps | 40Gbps |
+
+Each plan is provided with an isolated Virtual Machine running on a high-performance KVM hypervisor with [AMD EYPC-Milan](https://www.linode.com/amd/) processors.
 
 ## Software Specifications
 
