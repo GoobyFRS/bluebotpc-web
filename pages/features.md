@@ -11,11 +11,12 @@ Customer satisfaction is at the core of everything we do. That is why we provide
 - [Included CDN](https://www.quic.cloud/quic-cloud-services-and-features/quic-cloud-cdn-service/)
 - Active Performance & Uptime Monitoring
 - Automatic Backups, Security Patches & Plugin Updates
-- Flexible PHP Workers
 
 All of this is included to ensure your business critical web servers remain available, secure, and operating at peak performance!
 
 ## Data Centers
+
+![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png)
 
 Our compute hardware is operated on the [Akamai Global Cloud Network by Linode](https://www.linode.com/global-infrastructure/). This provides us with access to the most modern AMC EYPC processors in multiple geographical zones. We also leverage their highly-available Object Storage.
 
