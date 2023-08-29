@@ -3,7 +3,7 @@ layout: default
 ---
 # Managed WordPress Hosting
 
-We take pride in delivering world-class value to
+We take pride in delivering world-class uptime & customer service! That is why every plan has been handcrafted and tested in-house. Leveraging open source software and trusted Industry Partners we are able to provide greater value than our competitors! Blazing fast SSD storage, Modern AMD EYPC - Milan Processors, and integrated CDN just to name a few!
 
 ## Standard Hosting
 
@@ -36,3 +36,7 @@ Includes 1TB of BlueBotCDN monthly bandwidth plus 250GB of Object Storage! [Clic
 | LiteSpeed Enterprise | $50/Month | Enterprise Web Server Support |
 
 [Click Here to get started](https://www.mattfaulkner.net/bluebotpc/)
+
+![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png)
+
+![QUIC_CHP_lite](https://www.quic.cloud/wp-content/uploads/2023/05/quic_cloud-certified-hosting-providers_2.png)

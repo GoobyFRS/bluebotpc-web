@@ -6,16 +6,16 @@ Family-owned IT Services Provider based in New Salem, North Dakota serving the l
 
 ## [Personal PC Repair](https://www.bluebotpc.com/pages/pc)
 
-Need IT Support? Give us a ring for a _FREE_ consultation! We can support your IT needs on your schedule. Even if you do not see what you need listed below, give us a shout. **$50/hour; 30 day guarantee.**
+Need IT Support? Give us a ring for a _FREE_ consultation! We can replace Laptop Screens and more! If you do not see what you need listed below, give us a shout. **$50/hour; 30 day guarantee.**
 
 - Desktop & Laptop Repair
 - Home Network Support
 - Printer Setup and Support
 - Custom PC Builds and Upgrades
 - Nikon Camera Services
-- Much More!
+- Old PC Makeover
 
-Offering Desktop & Laptop repair services nationwide by USPS Mail! [Click Here to Open a Support Ticket](https://www.mattfaulkner.net/support/)
+Offering Desktop & Laptop repair services nationwide by Mail! [Click Here to Open a Support Ticket](https://www.mattfaulkner.net/support/)
 
 ## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
 

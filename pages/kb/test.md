@@ -12,7 +12,7 @@ _what is this?_
 
 ### Heading Three
 
-| ![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png) | This looks fine tho |
+| ![QUIC_CHP_lite](https://www.quic.cloud/wp-content/uploads/2023/05/quic_cloud-certified-hosting-providers_2.png) | This looks fine tho |
 
 - Included Migration Support
 - [Managed SSL Certificates](https://www.letsencrypt.org/)

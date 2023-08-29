@@ -3,7 +3,7 @@ layout: default
 ---
 # IT Services
 
-We know that rural communities have unique IT challenges. Talent and hardware availability are just the tip of the iceberg. If you need IT support at Home, or in the Shop, Farm, Small-Medium-sized business; we are here to help! We can support just about any type of device if the documentation for it is available.
+We know that rural communities have unique IT challenges. Talent and hardware availability are just the tip of the iceberg. If you need IT support at Home, or in the Shop, Farm, Small-Medium-sized business; we are here to help! We can support just about any type of device!
 
 - Desktop & Laptop Repairs
 - Malware/Virus Removal
@@ -17,17 +17,14 @@ We know that rural communities have unique IT challenges. Talent and hardware av
 
 ## Desktop and Laptop Repair
 
-We provide support for all major brands of Laptop & Desktop hardware.
+We provide support for all major brands of Laptop & Desktop hardware. Our Technicians will use various diagnostic tools to identify and resolve the root cause to prevent future downtime! All Computer repairs include dust removal and available updates!
 
 | **Service**               | **Rate** |
 | Custom Length Cat6a cable | $2/foot |
-| Diagnostics Fee/1st Hour  | $40 |
 | Standard Hourly Rate | $50 |
 | Business Hourly Rate | $80 |
 | Virus Removal        | $100 |
 | Screen Replacement   | $165* |
-
-All Personal Computer repairs include complementary dust removal and a OS Updates!
 
 Laptop Screen Replacements start at $165. This price may increase if the replacement hardware is greater than $165.
 
