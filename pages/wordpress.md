@@ -39,4 +39,4 @@ Includes 1TB of BlueBotCDN monthly bandwidth plus 250GB of Object Storage! [Clic
 
 ![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png)
 
-![QUIC_CHP_lite](https://www.quic.cloud/wp-content/uploads/2023/05/quic_cloud-certified-hosting-providers_2.png)
+![QUIC_CHP_dark](https://www.quic.cloud/wp-content/uploads/2023/05/quic_cloud-certified-hosting-providers.png)
