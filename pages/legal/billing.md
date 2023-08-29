@@ -5,7 +5,7 @@ layout: default
 
 ## IT Support Billing
 
-All repairs that require in-depth troubleshooting are subject to an non-refundable **$40.00 Diagnostics Fee**. This covers 1 hour of troubleshooting time. Work requiring more than 1 hour is subject to a **$50.00 per hour flat rate** after the diagnostics time has ended.
+All repairs that require in-depth troubleshooting are subject to an non-refundable **$50.00 Diagnostics Fee**. This covers 1 hour of troubleshooting time. Work requiring more than 1 hour is subject to a **$50.00 per hour flat rate** after the diagnostics time has ended.
 
 Customer Orders over $500 will require a non-refundable 20% deposit. Disputes can be negotiated with Matt.
 
@@ -23,5 +23,4 @@ Refunds & Cancellations are processed daily at 5PM (1700) CST. Refunds and Cance
 
 **Bandwidth Overage Fee:** If you violate the Bandwidth allocation, you will be billed an additional $10/TB on your next invoice. Repeat offenders may be required to upgrade their plan. This is only for Web Server bandwidth limits and do not apply to BlueBotCDN.
 
-- Quarterly subscriptions receive an automatic 5% discount.
 - Yearly subscriptions receive an automatic 10% discount.

@@ -83,14 +83,14 @@ Standard Plans are eligible for Expedited CDN priority if BlueBotCDN-Extra is pu
 
 ### Total Cost of Subscription Evaluation
 
-| **Plan**     | **Monthly** | **Quarterly** | **Yearly** | **2-Year** | **3-Year** |
-| Starter      | $20         | $77           | $220       | $440       | $660   |
-| Standard     | $40         | $153          | $440       | $875       | $1,310 |
-| Deluxe       | $85         | $320          | $925       | $1,850     | $2,780 |
-| Professional | $100        | $380          | $1,090     | $2,180     | $3,272 |
-| Ultimate     | $250        | $950          | $2,730     | $5,450     | $8,182 |
+| **Plan**     | **Monthly** | **Yearly** | **2-Year** | **3-Year** |
+| Starter      | $20         | $220       | $440       | $660   |
+| Standard     | $40         | $440       | $875       | $1,310 |
+| Deluxe       | $85         | $925       | $1,850     | $2,780 |
+| Professional | $100        | $1,090     | $2,180     | $3,272 |
+| Ultimate     | $250        | $2,730     | $5,450     | $8,182 |
 
-**Monthly** is at the base rate. **Quarterly** and **Yearly** subscriptions have applicable discounts applied. **2-Year** and **3-Year** assume the Yearly 10% discount.
+**Monthly** is at the base rate. **Yearly** subscriptions have applicable discounts applied. **2-Year** and **3-Year** assume the Yearly 10% discount.
 
 #### CyberPanel Add-Ons
 
