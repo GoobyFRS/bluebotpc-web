@@ -13,7 +13,7 @@ If you are interested in learning more about what BlueBotPC LLC can do for you; 
 
 ### [Schedule a Video Call on Calendly](https://calendly.com/bluebotpc/consult)
 
-### [Request Managed WordPress On-Boarding](https://www.mattfaulkner.net/bluebotpc/)
+### [Request Managed WordPress](https://www.mattfaulkner.net/bluebotpc/)
 
 The link above will redirect you to my personal BlueBotPC hosted WordPress website to collect your order information.
 
@@ -35,4 +35,4 @@ As of July 1st 2023; we have relocated to North Dakota and are exploring our opt
 
 [Link to Knowledge Base](https://www.bluebotpc.com/pages/kb/)
 
-[Link to Network Status](https://uptime.bluebotpc.com/status/home)
+[Link to Network Status](https://bluebotpcstatus.statuspage.io/)
