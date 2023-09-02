@@ -13,7 +13,7 @@ We know that rural communities have unique IT challenges. Talent and hardware av
 - Custom PC Builds and Upgrades
 - Nikon Camera Services
 
-[Click Here to Open a Support Ticket](https://www.mattfaulkner.net/support/)
+[Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
 ## Desktop and Laptop Repair
 
@@ -28,7 +28,7 @@ We provide support for all major brands of Laptop & Desktop hardware. Our Techni
 
 Laptop Screen Replacements start at $165. This price may increase if the replacement hardware is greater than $165.
 
-[Click Here to Open a Support Ticket](https://www.mattfaulkner.net/support/)
+[Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
 ### Home Network Support
 
@@ -53,6 +53,8 @@ We enjoy photography as well! That is why we offer services to help maintain you
 | Cropped Sensor Cleaning | $40 |
 | Full-Frame Sensor Cleaning | $60 |
 
+[Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
+
 ## Network Engineering
 
 I am your local Cisco and Juniper Networks expert! I offer support designing, deploying, troubleshooting, securing, expanding, or maintaining the network gear below. This is where I can provide your business with the most value. Whether you want to setup a Guest Wireless network or secure your QuickBooks machine; I can do it!
@@ -61,6 +63,8 @@ I am your local Cisco and Juniper Networks expert! I offer support designing, de
 - [Cisco](https://www.cisco.com/) switches, routers, and Merakis.
 - [Juniper](https://www.juniper.net/us/en.html) switches and routers.
 - [Aruba](https://www.arubanetworks.com/) switches, wireless controllers, and wireless access points.
+
+[Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
 ### Repair Process
 
