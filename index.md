@@ -18,6 +18,14 @@ Do you need IT Support? PC not powering on or working correctly? Give us a ring 
 
 Offering Desktop & Laptop repair services nationwide by Mail! [Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
+| **Service**               | **Rate** |
+| Basic Diagnostics/Phone Call | Free |
+| Memory Installation  | $20 |
+| Standard Hourly Rate | $50 |
+| Business Hourly Rate | $80 |
+| Virus Removal        | $100 |
+| Laptop Screen Replacement   | $165* |
+
 ## [Custom Desktop Services](https://www.bluebotpc.com/pages/pc)
 
 It doesn't matter if you are looking to build a brand new PC or you just need an extra hand with your upgrade; We are here to help! Our Denver family provides us access to a [MicroCenter](https://www.microcenter.com/site/stores/denver.aspx) location. Often parts are cheaper in-store versus online. We pass these saving on to you!

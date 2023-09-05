@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: pages/local-support/
 ---
 # Computer Support Services
 
