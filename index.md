@@ -1,12 +1,12 @@
 # Welcome to BlueBotPC
 
-Family-owned IT Services Provider based in New Salem, North Dakota serving the local community. Offering affordable PC Repair and Managed WordPress website hosting!
+Family-owned IT Services Provider based in New Salem, North Dakota serving the local community. Offering world-class PC and Laptop Repair.
 
 ![PcRepairBanner](/assets/img/pc_repair.png)
 
 ## [Computer Repair and Support](https://www.bluebotpc.com/pages/pc)
 
-Do you need IT Support? PC not powering on or working correctly? Give us a ring for a _FREE_ consultation! Let ourxperienced technicians support your technology needs at Home, on the Farm, or on our repair bench! **$50/hour; 30 day guarantee.**
+Do you need IT Support? PC not powering on or working correctly? Give us a ring for a _FREE_ consultation! Let our experienced Technicians support all of your technology needs at Home, in the Shop, on the Farm, or on our repair bench! **$50/hour; 30 day guarantee.**
 
 - Malware/Virus Removal
 - Desktop & Laptop Repair
@@ -32,13 +32,13 @@ It doesn't matter if you are looking to build a brand new PC or you just need an
 
 | **Service** | **Fixed Cost** |
 | Consultation          | Free |
-| Hardware Upgrade      | $50/Hr |
+| Hardware Upgrades     | $50/Hour |
 | Air-Cooled Full-Build | $160 |
 | Water AIO Full-Build  | $200 |
 
 ## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
 
-Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%!
+Let my Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%!
 
 - Included Migration Support
 - [Managed SSL Certificates](https://www.letsencrypt.org/)
