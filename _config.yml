@@ -1,8 +1,7 @@
 #lang: en
 title: BlueBotPC LLC
-#tagline: Create Local Value
 email: matt@bluebotpc.com
-description: PC Repair & Cloud Hosting
+description: PC Repair for Local Value
 url: "https://www.bluebotpc.com"
 permalink: pretty
 favicon: /assets/img/favicon.ico

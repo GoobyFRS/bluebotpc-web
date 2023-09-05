@@ -60,9 +60,15 @@ We enjoy photography as well! That is why we offer services to help maintain you
 
 ### Repair Process
 
-1. **Free Consultation:** We visually inspect your computer for damage, talk to you about your experience, and perform basic troubleshooting. We will make at least two recommendations for how to proceed.
-2. **Intake:** Device is added to our inventory tracking system. You are provided a Ticket Number.
-3. **Troubleshooting Desk:** Device undergoes a full software/hardware diagnostics workflow to ensure we identify and resolve the root cause.
-4. **Cost Approval:** If we determine you will be charged more than the original quote, we stop here for your cost increase approval.
-5. **Repair:** The identified root cause is resolved and cleanup work will be performed.
-6. **Return to Customer:** Device is removed from inventory, payment is processed, and receipt is given.
+1. **Drop-Off / Free Consultation:** We visually inspect your computer for damage, talk to you about your experience, and perform basic troubleshooting.
+1. **Troubleshooting Desk:** Device undergoes a full software/hardware diagnostics workflow to ensure we identify and resolve the root cause.
+1. **Repair:** The identified root cause is resolved and cleanup work will be performed.
+1. **Return to Customer:** Device is removed from inventory, payment is processed, and receipt is given.
+
+### What We Need From You?
+
+- Anything you think might help; including your power adapter if it is a laptop or all-in-one PC.
+
+Your login credentials - If you have BitLocker or any passwords set on the computer (BIOS, login, etc.) please provide these (all of them). 
+
+A complete problem description with as much detail as possible so our Technicians can get to work on it quickly without having to ask for more information.
