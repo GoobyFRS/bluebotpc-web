@@ -4,7 +4,7 @@ permalink: pages/kb/
 ---
 # Knowledge Base
 
-## Hardware Specifications
+Hardware Specifications
 
 | **Plan**     | **vCPU** | **Memory** | **SSD** | **Bandwidth** | **PHP Workers** | **Type** |
 | Starter      | 1 | 1GB | 20GB | 1TB | 2 | Shared |
@@ -13,7 +13,7 @@ permalink: pages/kb/
 | Professional | 2 | 4GB | 75GB | 4TB | 4 | Dedicated |
 | Ultimate     | 4 | 8GB | 150GB | 5TB | 6 | Dedicated |
 
-## Network Specifications
+Network Specifications
 
 | **Plan**     | **Network-Out** | **Network-In** |
 | Starter      | 1Gbps | 40Gbps |
@@ -24,7 +24,8 @@ permalink: pages/kb/
 
 Each plan is provided with an isolated Virtual Machine running on a high-performance KVM hypervisor with [AMD EYPC-Milan](https://www.linode.com/amd/) processors.
 
-## Software Specifications
+Software Specifications
+Pre-Installed Plugins: ``` Jetpack Free \n Jetpack Protect Free \n Litespeed Cache ```
 
 | **Package**   | **Version** |
 | Kernel        | 6.2 |
@@ -36,14 +37,7 @@ Each plan is provided with an isolated Virtual Machine running on a high-perform
 | WordPress     | 6.2 |
 | Python        | 3.9 |
 
-**Pre-Installed Plugins:**
-
-- Jetpack Free
-- Jetpack Protect Free
-- Litespeed Cache
-- WPS Hide Login
-
-### Object Storage Specifications
+Object Storage Specifications
 
 Standard Plans are not eligible for Object Storage at this time. Ideal for High Quality Content Sharing.
 
@@ -60,7 +54,7 @@ Standard Plans are not eligible for Object Storage at this time. Ideal for High 
 
 **Restricted file name characters:** ```" ' < > & + =```
 
-### Content Delivery Network Specifications
+Content Delivery Network Specifications
 
 [Friendly Bot Allowlist](https://www.quic.cloud/docs/cdn/friendly-bot-allowlist/)
 
@@ -81,7 +75,7 @@ Bandwidth Overage Fees do not apply to BlueBotCDN. CDN and Online Services use V
 
 Standard Plans are eligible for Expedited CDN priority if BlueBotCDN-Extra is purchased. If a Premium Plan also purchases BlueBotCDN-Exta, they are allocated an additional 20,480 credits.
 
-### Total Cost of Subscription Evaluation
+## Total Cost of Subscription Evaluation
 
 | **Plan**     | **Monthly** | **Yearly** | **2-Year** | **3-Year** |
 | Starter      | $20         | $220       | $440       | $660   |
@@ -92,7 +86,7 @@ Standard Plans are eligible for Expedited CDN priority if BlueBotCDN-Extra is pu
 
 **Monthly** is at the base rate. **Yearly** subscriptions have applicable discounts applied. **2-Year** and **3-Year** assume the Yearly 10% discount.
 
-#### CyberPanel Add-Ons
+### CyberPanel Add-Ons
 
 - WordPress Manager
 - Backups V2

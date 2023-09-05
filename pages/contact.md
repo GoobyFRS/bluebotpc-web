@@ -11,6 +11,8 @@ If you are interested in learning more about what BlueBotPC LLC can do for you; 
 
 ## [Google Maps Listing](https://goo.gl/maps/PXK3Huew2rYx4Bg3A)
 
+## [Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
+
 ### [Schedule a Video Call on Calendly](https://calendly.com/bluebotpc/consult)
 
 ### [Managed WordPress Sign Up](https://forms.gle/eM3NEijzpWkRoH3UA)

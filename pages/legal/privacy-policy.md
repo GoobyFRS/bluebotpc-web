@@ -23,8 +23,8 @@ Name, Email, and Invoices are saved for 3 years. No other data is currently save
 
 ### What rights you have over your data?
 
-You may request a copy of all data we have collected. You may also request its permanant deletion from BlueBotPC.
+If you are a customer, you may request a copy of all data we have collected about you. You may also request its permanant deletion from BlueBotPCs Systems. If you are not a customer, we do not collect any information about you.
 
 ### Applicable Privacy Policies
 
-[Cloudflare](https://www.cloudflare.com/privacypolicy/) -- [Square](https://squareup.com/us/en/legal/general/privacy-no-account) -- [QUIC.cloud](https://www.quic.cloud/privacy-policy/) -- [Linode](https://www.linode.com/legal-privacy/) -- [MattFaulkner](https://www.mattfaulkner.net/legal/privacy-policy/) --
+[Cloudflare](https://www.cloudflare.com/privacypolicy/) -- [Square POS](https://squareup.com/us/en/legal/general/privacy-no-account) -- [QUIC.cloud](https://www.quic.cloud/privacy-policy/) -- [Linode](https://www.linode.com/legal-privacy/) -- [Matt Faulkner](https://www.mattfaulkner.net/legal/privacy-policy/) --

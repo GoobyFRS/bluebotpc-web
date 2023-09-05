@@ -4,30 +4,31 @@ Family-owned IT Services Provider based in New Salem, North Dakota serving the l
 
 ![PcRepairBanner](/assets/img/pc_repair.png)
 
-## [Personal PC Repair](https://www.bluebotpc.com/pages/pc)
+## [Computer Repair and Support](https://www.bluebotpc.com/pages/pc)
 
-Need IT Support? Give us a ring for a _FREE_ consultation! We can replace Laptop Screens and more! If you do not see what you need listed below, give us a shout. **$50/hour; 30 day guarantee.**
+Do you need IT Support? PC not powering on or working correctly? Give us a ring for a _FREE_ consultation! Let ourxperienced technicians support your technology needs at Home, on the Farm, or on our repair bench! **$50/hour; 30 day guarantee.**
 
 - Malware/Virus Removal
 - Desktop & Laptop Repair
-- Touchscreen Replacements
+- Laptop Touchscreen Replacements
+- Laptop Battery Replacements
 - Home Network Support
 - Printer Setup & Support
 - Custom PC Builds & Upgrades
-- Nikon Camera Services
 
-Offering Desktop & Laptop repair services nationwide by Mail! [Click Here to Open a Support Ticket](https://www.mattfaulkner.net/support/)
+Offering Desktop & Laptop repair services nationwide by Mail! [Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
-## [Local Business Services](https://www.bluebotpc.com/pages/pc/)
+### Custom Desktop Services
 
-Small to Medium-sized businesses in rural areas have unique challenges. That is why we offer a wide-range of support for our local businesses. Between us we have a decade of experience providing enterprise level Incident Management, Systems Analysis, Deskside Support, and Systems Administration. **$80/Hour**
+It doesn't matter if you are looking to build a brand new PC or you just need an extra hand with your upgrade; We are here to help! Our Denver family provides us access to a [MicroCenter](https://www.microcenter.com/site/stores/denver.aspx) location. Often parts are cheaper in-store versus online. We pass these saving on to you!
 
-- General IT Consulting & Support
-- Network & Security Solutions
-- Managed Cloud Solutions
-- Low-Voltage Services
+| **Service** | **Fixed Cost** |
+| Consultation          | Free |
+| Hardware Upgrade      | $50/Hr |
+| Air-Cooled Full-Build | $160 |
+| Water AIO Full-Build  | $200 |
 
-## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
+### [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
 
 Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%!
 

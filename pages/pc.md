@@ -1,17 +1,17 @@
 ---
 layout: default
 ---
-# IT Services
+# Computer Support Services
 
-We know that rural communities have unique IT challenges. Talent and hardware availability are just the tip of the iceberg. If you need IT support at Home, or in the Shop, Farm, Small-Medium-sized business; we are here to help! We can support just about any type of device!
+We know that rural communities have unique IT challenges. If you need IT support at Home, or in the Shop, Farm, Small-Medium-sized business; we are here to help! We can support just about any type of device! **$50/hour; 30 day guarantee.**
 
-- Desktop & Laptop Repairs
 - Malware/Virus Removal
-- Smart TV setup
-- Home Network Setup and Support
-- Printer Setup and Support
-- Custom PC Builds and Upgrades
-- Nikon Camera Services
+- Desktop & Laptop Repair
+- Laptop Touchscreen Replacements
+- Laptop Battery Replacements
+- Network Support
+- Printer Setup & Support
+- Custom PC Builds & Upgrades
 
 [Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
@@ -34,11 +34,13 @@ Laptop Screen Replacements start at $165. This price may increase if the replace
 
 Spotty WiFi? Losing connection to the Printer? I am your local Network expert and I can help you diagnose, resolve, and become educated on all things networking! **$50/hour Flat Rate**
 
-### Custom Built Desktops
+### Custom Built Desktop Services
 
-It doesn't matter if you are a newbie looking to build a brand new PC or just need an extra hand with your upgrade; We are here to help! Our Denver family provides us access to a [MicroCenter](https://www.microcenter.com/site/stores/denver.aspx) location. Often parts are cheaper in-store versus online. We pass these saving on to you!
+It doesn't matter if you are looking to build a brand new PC or you just need an extra hand with your upgrade; We are here to help! Our Denver family provides us access to a [MicroCenter](https://www.microcenter.com/site/stores/denver.aspx) location. Often parts are cheaper in-store versus online. We pass these saving on to you!
 
 | **Service** | **Fixed Cost** |
+| Consultation          | Free |
+| Hardware Upgrade      | $50/Hr |
 | Air-Cooled Full-Build | $160 |
 | Water AIO Full-Build  | $200 |
 
@@ -52,17 +54,6 @@ We enjoy photography as well! That is why we offer services to help maintain you
 | Firmware Update | $35 |
 | Cropped Sensor Cleaning | $40 |
 | Full-Frame Sensor Cleaning | $60 |
-
-[Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
-
-## Network Engineering
-
-I am your local Cisco and Juniper Networks expert! I offer support designing, deploying, troubleshooting, securing, expanding, or maintaining the network gear below. This is where I can provide your business with the most value. Whether you want to setup a Guest Wireless network or secure your QuickBooks machine; I can do it!
-
-- [Ubiquiti](https://www.ui.com/) switches, access points, and security cameras.
-- [Cisco](https://www.cisco.com/) switches, routers, and Merakis.
-- [Juniper](https://www.juniper.net/us/en.html) switches and routers.
-- [Aruba](https://www.arubanetworks.com/) switches, wireless controllers, and wireless access points.
 
 [Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
