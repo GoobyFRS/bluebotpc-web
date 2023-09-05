@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: pages/custom-pc/
 ---
 # Custom Computer Building Services
 

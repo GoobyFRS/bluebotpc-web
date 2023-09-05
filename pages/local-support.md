@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: pages/local-support/
 ---
 # Computer Support Services
 
@@ -41,7 +40,7 @@ It doesn't matter if you are looking to build a brand new PC or you just need an
 
 | **Service** | **Fixed Cost** |
 | Consultation          | Free |
-| Hardware Upgrade      | $50/Hr |
+| Hardware Upgrade      | $50/Hour |
 | Air-Cooled Full-Build | $160 |
 | Water AIO Full-Build  | $200 |
 

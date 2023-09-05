@@ -1,16 +1,9 @@
 ---
 layout: default
-permalink: pages/antivirus/
 ---
-# Remove Malware, Virus, Trojan, Spyware, and More
+# Laptop Screen Replacements
 
-> Malware, short for malicious software, refers to any intrusive software developed by cybercriminals (often called hackers) to steal data and damage or destroy computers and computer systems. Examples of common malware include viruses, worms, Trojan viruses, spyware, adware, and ransomware. Recent malware attacks have exfiltrated data in mass amounts. (Cisco Networks, 2023)
-
-| ![MB-Logo](/assets/img/malwarebytes_logo.png) | Malwarebytes Premium is one of the tools our Shop utilizes to assist in the detection, quarintine, and clean-up of an already infected computer. |
-
-## Adware Removal
-
-Adware can appear in variety of methods. Did your home page change unexpectedly? Using a different search engine than ususal? Are you getting pop-ups outside your browser? BlueBotPC Technicians have a diverse digital tool-kit to find and remove Adware from your system.
+Our Technicians can replace all types of high resolution and touchscreens! We support all the popular makes and models such as Dell, HP, Lenovo, Acer, ASUS, MSI, Maingear, PowerSpec, Razer, LG. We source all of our Screen Replacements from the MicroCenter based in Denver, Colorado. This allows us access to exact OE replacement screens and glass for most any laptop on the market!
 
 ### Repair Process
 
