@@ -1,4 +1,5 @@
 https://www.bluebotpc.com/
+https://www.bluebotpc.com/sitemap.txt
 https://www.bluebotpc.com/pages/local-support/
 https://www.bluebotpc.com/pages/custom-pc/
 https://www.bluebotpc.com/pages/wordpress/
@@ -9,5 +10,5 @@ https://www.bluebotpc.com/pages/legal/privacy-policy/
 https://www.bluebotpc.com/pages/legal/billing/
 https://www.bluebotpc.com/pages/laptop-screen/
 https://www.bluebotpc.com/pages/laptop-battery/
-https://www.bluebotpc.com/pages/antivirus
+https://www.bluebotpc.com/pages/antivirus/
 https://www.bluebotpc.com/pages/ram-install/

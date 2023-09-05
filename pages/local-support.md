@@ -6,13 +6,13 @@ permalink: pages/local-support/
 
 We know that rural communities have unique IT challenges. If you need IT support at Home, or in the Shop, Farm, Small-Medium-sized business; we are here to help! We can support just about any type of device! **$50/hour; 30 day guarantee.**
 
-- Malware/Virus Removal
+- [Malware/Virus Removal](https://www.bluebotpc.com/pages/antivirus)
 - Desktop & Laptop Repair
-- Laptop Touchscreen Replacements
-- Laptop Battery Replacements
+- [Laptop Touchscreen Replacements](https://www.bluebotpc.com/pages/laptop-screen/)
+- [Laptop Battery Replacements](https://www.bluebotpc.com/pages/laptop-battery/)
 - Network Support
 - Printer Setup & Support
-- Custom PC Builds & Upgrades
+- [Custom PC Builds & Upgrades](https://www.bluebotpc.com/pages/custom-pc/)
 
 [Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
@@ -24,8 +24,8 @@ We provide support for all major brands of Laptop & Desktop hardware. Our Techni
 | Custom Length Cat6a cable | $2/foot |
 | Standard Hourly Rate | $50 |
 | Business Hourly Rate | $80 |
-| Virus Removal        | $100 |
-| Screen Replacement   | $165* |
+| [Virus Removal](https://www.bluebotpc.com/pages/antivirus/) | $100 |
+| [Laptop Screen Replacement](https://www.bluebotpc.com/pages/laptop-screen/)   | $165* |
 
 Laptop Screen Replacements start at $165. This price may increase if the replacement hardware is greater than $165.
 
@@ -68,7 +68,5 @@ We enjoy photography as well! That is why we offer services to help maintain you
 ### What We Need From You?
 
 - Anything you think might help; including your power adapter if it is a laptop or all-in-one PC.
-
-Your login credentials - If you have BitLocker or any passwords set on the computer (BIOS, login, etc.) please provide these (all of them). 
-
-A complete problem description with as much detail as possible so our Technicians can get to work on it quickly without having to ask for more information.
+- Your login credentials - If you have BitLocker or any passwords set on the computer (BIOS, login, etc.) please provide these (all of them).
+- A complete problem description with as much detail as possible so our Technicians can get to work on it quickly without having to ask for more information.

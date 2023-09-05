@@ -8,23 +8,23 @@ Family-owned IT Services Provider based in New Salem, North Dakota serving the l
 
 Do you need IT Support? PC not powering on or working correctly? Give us a ring for a _FREE_ consultation! Let our experienced Technicians support all of your technology needs at Home, in the Shop, on the Farm, or on our repair bench! **$50/hour; 30 day guarantee.**
 
-- Malware/Virus Removal
+- [Malware/Virus Removal](https://www.bluebotpc.com/pages/antivirus)
 - Desktop & Laptop Repair
-- Laptop Touchscreen Replacements
-- Laptop Battery Replacements
-- Home Network Support
+- [Laptop Touchscreen Replacements](https://www.bluebotpc.com/pages/laptop-screen/)
+- [Laptop Battery Replacements](https://www.bluebotpc.com/pages/laptop-battery/)
+- Network Support
 - Printer Setup & Support
-- Custom PC Builds & Upgrades
+- [Custom PC Builds & Upgrades](https://www.bluebotpc.com/pages/custom-pc/)
 
 Offering Desktop & Laptop repair services nationwide by Mail! [Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
 | **Service**               | **Rate** |
 | Basic Diagnostics/Phone Call | Free |
-| Memory Installation  | $20 |
+| [Memory Installation](https://www.bluebotpc.com/pages/ram-install/) | $20 |
 | Standard Hourly Rate | $50 |
 | Business Hourly Rate | $80 |
-| Virus Removal        | $100 |
-| Laptop Screen Replacement   | $165* |
+| [Virus Removal](https://www.bluebotpc.com/pages/antivirus/) | $100 |
+| [Laptop Screen Replacement](https://www.bluebotpc.com/pages/laptop-screen/)   | $165* |
 
 ## [Custom Desktop Services](https://www.bluebotpc.com/pages/pc)
 
@@ -43,7 +43,7 @@ Let my Team of Cloud Professionals manage the security and availability of your 
 - Included Migration Support
 - [Managed SSL Certificates](https://www.letsencrypt.org/)
 - Automatic Backups, Security Patches & Plugin Updates!
-- Highly-Available Object Storage
-- Integrated WordPress-first CDN
+- [Highly-Available Object Storage](https://www.linode.com/products/object-storage/)
+- [Integrated WordPress-first CDN](https://www.quic.cloud/)
 
 ![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png)

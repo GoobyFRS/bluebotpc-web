@@ -16,5 +16,5 @@ Our Technicians can replace all types of high resolution and touchscreens! We su
 ### What We Need From You?
 
 - Anything you think might help; including your power adapter if it is a laptop or all-in-one PC.
-- Your login credentials - If you have BitLocker or any passwords set on the computer (BIOS, login, etc.) please provide these (all of them). 
+- Your login credentials - If you have BitLocker or any passwords set on the computer (BIOS, login, etc.) please provide these (all of them).
 - A complete problem description with as much detail as possible so our Technicians can get to work on it quickly without having to ask for more information.
