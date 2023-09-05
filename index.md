@@ -8,28 +8,15 @@ Family-owned IT Services Provider based in New Salem, North Dakota serving the l
 
 Need IT Support? Give us a ring for a _FREE_ consultation! We can replace Laptop Screens and more! If you do not see what you need listed below, give us a shout. **$50/hour; 30 day guarantee.**
 
+- Malware/Virus Removal
 - Desktop & Laptop Repair
+- Touchscreen Replacements
 - Home Network Support
-- Printer Setup and Support
-- Custom PC Builds and Upgrades
+- Printer Setup & Support
+- Custom PC Builds & Upgrades
 - Nikon Camera Services
-- Old PC Makeover
 
 Offering Desktop & Laptop repair services nationwide by Mail! [Click Here to Open a Support Ticket](https://www.mattfaulkner.net/support/)
-
-## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
-
-Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%!
-
-- Included Migration Support
-- [Managed SSL Certificates](https://www.letsencrypt.org/)
-- Automatic Backups, Security Patches & Plugin Updates!
-- Multi-Layer Firewalls including WAF!
-- Highly-Available Object Storage
-- 7 State of the Art Data Centers in the United States and Canada
-- Integrated WordPress-first CDN
-
-![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png)
 
 ## [Local Business Services](https://www.bluebotpc.com/pages/pc/)
 
@@ -39,3 +26,15 @@ Small to Medium-sized businesses in rural areas have unique challenges. That is 
 - Network & Security Solutions
 - Managed Cloud Solutions
 - Low-Voltage Services
+
+## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
+
+Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%!
+
+- Included Migration Support
+- [Managed SSL Certificates](https://www.letsencrypt.org/)
+- Automatic Backups, Security Patches & Plugin Updates!
+- Highly-Available Object Storage
+- Integrated WordPress-first CDN
+
+![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png)
