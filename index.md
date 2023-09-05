@@ -18,7 +18,7 @@ Do you need IT Support? PC not powering on or working correctly? Give us a ring 
 
 Offering Desktop & Laptop repair services nationwide by Mail! [Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
-### Custom Desktop Services
+## [Custom Desktop Services](https://www.bluebotpc.com/pages/pc)
 
 It doesn't matter if you are looking to build a brand new PC or you just need an extra hand with your upgrade; We are here to help! Our Denver family provides us access to a [MicroCenter](https://www.microcenter.com/site/stores/denver.aspx) location. Often parts are cheaper in-store versus online. We pass these saving on to you!
 
@@ -28,7 +28,7 @@ It doesn't matter if you are looking to build a brand new PC or you just need an
 | Air-Cooled Full-Build | $160 |
 | Water AIO Full-Build  | $200 |
 
-### [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
+## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
 
 Let our Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%!
 

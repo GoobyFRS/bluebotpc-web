@@ -9,16 +9,6 @@ If you are interested in learning more about what BlueBotPC LLC can do for you; 
 
 **Snail Mail:** ```301 Birch Ave New Salem, ND 58563```
 
-## [Google Maps Listing](https://goo.gl/maps/PXK3Huew2rYx4Bg3A)
-
-## [Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
-
-### [Schedule a Video Call on Calendly](https://calendly.com/bluebotpc/consult)
-
-### [Managed WordPress Sign Up](https://forms.gle/eM3NEijzpWkRoH3UA)
-
-The link above will redirect you to my personal BlueBotPC hosted WordPress website to collect your order information.
-
 ## About Us
 
 **Our Mission** is to provide honest and quality IT Support and Cloud Services in an effort to bring something of positive value to our local community. We do not do this as a full-time money-making endvour. Instead we offer our services at rates we find reasonable so that we can generally support our community.
@@ -31,10 +21,10 @@ In 2022 I moved to Lone Tree, Colorado and built our first PoP/Small Scale Data 
 
 As of July 1st 2023; we have relocated to North Dakota and are exploring our options for supporting this under-served community.
 
-[Link to Legal](https://www.bluebotpc.com/pages/legal/legal)
+[Google Maps Listing](https://goo.gl/maps/PXK3Huew2rYx4Bg3A)
 
-[Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
+[Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
-[Link to Knowledge Base](https://www.bluebotpc.com/pages/kb/)
+[Schedule a Video Call on Calendly](https://calendly.com/bluebotpc/consult)
 
-[Link to Network Status](https://bluebotpcstatus.statuspage.io/)
+[Managed WordPress Sign Up](https://forms.gle/eM3NEijzpWkRoH3UA)
