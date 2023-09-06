@@ -28,3 +28,5 @@ As of July 1st 2023; we have relocated to North Dakota and are exploring our opt
 [Schedule a Video Call on Calendly](https://calendly.com/bluebotpc/consult)
 
 [Managed WordPress Sign Up](https://forms.gle/eM3NEijzpWkRoH3UA)
+
+[Knowledge Base](https://docs.bluebotpc.com/)
