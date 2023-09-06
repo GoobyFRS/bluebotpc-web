@@ -5,7 +5,7 @@ layout: default
 
 BlueBotPC sources all of our Laptop Battery Replacements from the MicroCenter based in Denver, Colorado. This allows us to special order and install high-quality OE replacement batteries from American-based suppliers.
 
-### Repair Process
+## Repair Process
 
 1. **Drop-Off / Free Consultation:** We visually inspect your computer for damage, talk to you about your experience, and perform basic troubleshooting.
 1. **Troubleshooting Desk:** The Laptop Battery undergoes a  software diagnostics workflow to ensure the battery is defective and we collect information to order the replacement.

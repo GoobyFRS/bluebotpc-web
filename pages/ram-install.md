@@ -3,11 +3,11 @@ layout: default
 ---
 # Laptop & Desktop Memory Installation
 
-Our Technicians have experience upgrading the Memory/RAM in hundreds of computers! Given our extensive experince with computer Memory, we can install additonal memory on applicable machines for **$20**
+Our Technicians have experience upgrading the Memory/RAM in hundreds of computers! Given our extensive experince with computer Memory, we can install additonal memory on applicable machines for **$20.00**
 
 ## Memory Burn-In Testing
 
-Using [MemTest86+] our Technicians can perform execptionally in-depth on the physical modules on the DIMM. This is one of the tools we can utilize to confirm your PC memory is working as expected. We can perform Memory Burn-In Testing on just about any type of device.
+Using [MemTest86+](https://www.memtest86.com/) our Technicians can perform execptionally in-depth on the physical modules on the DIMM. This is one of the tools we can utilize to confirm your PC memory is working as expected. We can perform Memory Burn-In Testing on just about any type of device.
 
 ### Repair Process
 
