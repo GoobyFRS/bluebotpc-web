@@ -9,7 +9,7 @@ All repairs that require in-depth troubleshooting are subject to an non-refundab
 
 Customer Orders over $500 will require a non-refundable 20% deposit.
 
-**Dispatch Billing Transparency:** We do not bill for most Technician dispatch calls. Dispatch outside of our normal operating hours will result in a $100 Truck Roll fee.
+**Dispatch Billing Transparency:** On-Site Technician Dispatch will result in an additional fee of $0.75/mile from our Garage. Dispatch outside of our normal operating hours will result in a $100 Truck Roll fee.
 
 **On-Site Support Statement:** Customers are responsible for maintaining a safe working environment for our Technicians. Technicians may refuse service due to safety concerns. Our Technicians may wear a face-covering/mask upon request. Billable hours start once our Technician arrives at your address.
 

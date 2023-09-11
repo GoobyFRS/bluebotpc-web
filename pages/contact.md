@@ -11,15 +11,15 @@ If you are interested in learning more about what BlueBotPC LLC can do for you; 
 
 ## About Us
 
-**Our Mission** is to provide honest and quality IT Support and Cloud Services in an effort to bring something of positive value to our local community. We do not do this as a full-time money-making endvour. Instead we offer our services at rates we find reasonable so that we can generally support our community.
+**Our Mission** is to provide honest and quality IT Support and Cloud Services in an effort to bring positive value to our local community. We do not do this as a full-time money-making endvour. Instead we offer our services at rates we find reasonable so that we can generally support our community.
 
 We highly value privacy and security online. We also highly value Open Source Software and the community that contributes to it!
 
-**History:** I started in Aurora, Colorado as a PC Repair shop in 2015 after Graduation from Pickens Technical College.
+**History:** We started in Aurora, Colorado as a PC Repair shop in 2015 after Graduation from Pickens Technical College.
 
-In 2022 I moved to Lone Tree, Colorado and built our first PoP/Small Scale Data Center offering Game Server Hosting. We lightly dabbled in Managed Services.
+In 2022 I moved to Lone Tree, Colorado and built our first PoP/Small Scale Data Center offering Game Server Hosting.
 
-As of July 1st 2023; we have relocated to North Dakota and are exploring our options for supporting this under-served community.
+As of July 1st 2023; we have relocated to North Dakota and are exploring the needs of this under-served community.
 
 [Google Maps Listing](https://goo.gl/maps/PXK3Huew2rYx4Bg3A)
 

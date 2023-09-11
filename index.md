@@ -15,11 +15,12 @@ Do you need IT Support? PC not powering on or working correctly? Give us a ring 
 - Network Support
 - Printer Setup & Support
 - [Custom PC Builds & Upgrades](https://www.bluebotpc.com/pages/custom-pc/)
+- Xbox & Playstation Support
 
 Offering Desktop & Laptop repair services nationwide by Mail! [Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
 | **Service**               | **Rate** |
-| Basic Diagnostics/Phone Call | Free |
+| Basic Diagnostics/Consultation | Free |
 | [Memory Installation](https://www.bluebotpc.com/pages/ram-install/) | $20 |
 | Standard Hourly Rate | $50 |
 | Business Hourly Rate | $80 |
