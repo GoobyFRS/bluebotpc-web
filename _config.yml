@@ -1,7 +1,7 @@
 #lang: en
 title: BlueBotPC LLC
 email: matt@bluebotpc.com
-description: PC Repair for Local Value
+#description: PC Repair for Local Value
 url: "https://www.bluebotpc.com"
 permalink: pretty
 favicon: /assets/img/favicon.ico
