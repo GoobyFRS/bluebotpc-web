@@ -30,3 +30,5 @@ As of July 1st 2023; we have relocated to North Dakota and are exploring the nee
 [Managed WordPress Sign Up](https://forms.gle/eM3NEijzpWkRoH3UA)
 
 [Knowledge Base](https://docs.bluebotpc.com/)
+
+[Remote Support Client](https://gooby-s3.us-southeast-1.linodeobjects.com/BBPC_QS_Client.exe)

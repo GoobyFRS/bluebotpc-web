@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
-# Remove Malware, Virus, Trojan, Spyware, and More
+# Virus Removal
+
+![MB-Logo](/assets/img/malwarebytes_logo.png)
+
+Malwarebytes Premium is only one of the tools our Shop utilizes to assist in the detection, quarintine, and clean-up of an already infected computer.
 
 > Malware, short for malicious software, refers to any intrusive software developed by cybercriminals (often called hackers) to steal data and damage or destroy computers and computer systems. Examples of common malware include viruses, worms, Trojan viruses, spyware, adware, and ransomware. Recent malware attacks have exfiltrated data in mass amounts. (Cisco Networks, 2023)
-
-| ![MB-Logo](/assets/img/malwarebytes_logo.png) | Malwarebytes Premium is one of the tools our Shop utilizes to assist in the detection, quarintine, and clean-up of an already infected computer. |
 
 ## Adware Removal
 

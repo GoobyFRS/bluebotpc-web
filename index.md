@@ -39,7 +39,7 @@ It doesn't matter if you are looking to build a brand new PC or you just need an
 
 ## [Managed WordPress Hosting](https://www.bluebotpc.com/pages/wordpress)
 
-Let my Team of Cloud Professionals manage the security and availability of your very own VPS with an optimized OpenLiteSpeed software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%!
+Let my the Cloud Professionals manage the security and availability of your own VPS with an optimized OpenLiteSpeed software stack! Paired with NVMe storage and a WordPress-first CDN, we can decrease website load times by as much as 45%!
 
 - Included Migration Support
 - [Managed SSL Certificates](https://www.letsencrypt.org/)

@@ -30,10 +30,6 @@ Laptop Screen Replacements start at $165. This price may increase if the replace
 
 [Click Here to Open a Support Ticket](https://forms.gle/LBAdQnoguwRzCkNo8)
 
-### Home Network Support
-
-Spotty WiFi? Losing connection to the Printer? I am your local Network expert and I can help you diagnose, resolve, and become educated on all things networking! **$50/hour Flat Rate**
-
 ### Custom Built Desktop Services
 
 It doesn't matter if you are looking to build a brand new PC or you just need an extra hand with your upgrade; We are here to help! Our Denver family provides us access to a [MicroCenter](https://www.microcenter.com/site/stores/denver.aspx) location. Often parts are cheaper in-store versus online. We pass these saving on to you!
