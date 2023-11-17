@@ -3,7 +3,7 @@ layout: default
 ---
 # Managed WordPress
 
-Every plan has been handcrafted; leveraging open source software from trusted Industry Partners we are able to provide greater value than our competitors!
+Our plans are handcrafted, leveraging open source software from trusted Industry Partners. Ensuring greater performance and value than our competitors!
 
 ![Linode Solutions Partner](https://gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png)
 
@@ -25,7 +25,7 @@ Includes 5GB of BlueBotCDN bandwidth every month! **Trial a Standard Plan for 7-
 Includes 1TB of BlueBotCDN monthly bandwidth plus 250GB of Object Storage! [Click Here to get started!](https://forms.gle/v6GKGBBMjj5Dd9449)
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
-| Professional | $100 | 75GB  | 5TB | ~300,000 |
+| Professional | $120 | 75GB  | 5TB | ~300,000 |
 | Ultimate     | $250 | 150GB | 6TB | ~500,000+ |
 
 ### Complementary Paid Services
