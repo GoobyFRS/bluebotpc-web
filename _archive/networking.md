@@ -11,12 +11,14 @@ More information coming soon.
 
 ## Business Network Support
 
-We are your local Cisco and Juniper Networks expert! We offer support designing, deploying, troubleshooting, securing, expanding, or maintaining the network gear below. This is where I can provide your business with the most value. Whether you want to setup a Guest Wireless network or secure your QuickBooks machine; I can do it!
+We are your local Cisco and Juniper Networks expert! We offer support designing, deploying, troubleshooting, securing, expanding, or maintaining network gear. This is where I can provide your business with the most value. Whether you want to setup a Guest Wireless network or secure your QuickBooks machine; I can do it!
 
 - [Ubiquiti](https://www.ui.com/) switches, access points, and security cameras.
-- [Cisco](https://www.cisco.com/) switches, routers, and Merakis.
-- [Juniper](https://www.juniper.net/us/en.html) switches and routers.
 - [Aruba](https://www.arubanetworks.com/) switches, wireless controllers, and wireless access points.
+- [Juniper](https://www.juniper.net/us/en.html) switches and routers.
+- [Cisco](https://www.cisco.com/) switches, routers, and Merakis.
+- [TP-Link](https://www.tp-link.com/us/business-networking/) switches, routers, and access points.
+- [WestRiv Equipment](https://westriv.com/)
 
 ### Wireless Site Survey - $100
 
